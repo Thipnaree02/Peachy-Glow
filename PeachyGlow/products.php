@@ -85,27 +85,27 @@
                      <div class="container-fluid">
                         <div class="row">
                            <div class="col-lg-3 col-md-6">
-                              <div class="coffee_img"><img src="images/img-1.png"></div>
-                              <h3 class="types_text">TYPES OF COFFEE</h3>
-                              <p class="looking_text">looking at its layout. The point of</p>
+                              <div class="coffee_img"><img src="images/1.png"></div>
+                              <h3 class="types_text">Olay Regenerist</h3>
+                              <p class="looking_text">ครีมบำรุงผิวช่วยลดเลือนริ้วรอย เสริมสร้างความยืดหยุ่น และกระชับผิว ด้วยสูตรที่มีเปปไทด์และไนอาซินาไมด์</p>
                               <div class="read_bt"><a href="#">Read More</a></div>
                            </div>
                            <div class="col-lg-3 col-md-6">
-                              <div class="coffee_img"><img src="images/img-2.png"></div>
-                              <h3 class="types_text">BEAN VARIETIES</h3>
-                              <p class="looking_text">looking at its layout. The point of</p>
+                              <div class="coffee_img"><img src="images/2.png"></div>
+                              <h3 class="types_text">Hada Labo</h3>
+                              <p class="looking_text">โลชั่นและเซรั่มบำรุงผิวจากญี่ปุ่น เน้นการเติมความชุ่มชื้นล้ำลึกด้วยกรดไฮยาลูโรนิกหลายโมเลกุล</p>
                               <div class="read_bt"><a href="#">Read More</a></div>
                            </div>
                            <div class="col-lg-3 col-md-6">
-                              <div class="coffee_img"><img src="images/img-3.png"></div>
-                              <h3 class="types_text">COFFEE & PASTRY</h3>
-                              <p class="looking_text">looking at its layout. The point of</p>
+                              <div class="coffee_img"><img src="images/3.png"></div>
+                              <h3 class="types_text">Anessa</h3>
+                              <p class="looking_text">กันแดดจากญี่ปุ่นที่มีประสิทธิภาพสูง ป้องกันรังสี UVA/UVB และกันน้ำได้ดี เหมาะสำหรับกิจกรรมกลางแจ้ง</p>
                               <div class="read_bt"><a href="#">Read More</a></div>
                            </div>
                            <div class="col-lg-3 col-md-6">
-                              <div class="coffee_img"><img src="images/img-4.png"></div>
-                              <h3 class="types_text">COFFEE TO GO</h3>
-                              <p class="looking_text">looking at its layout. The point of</p>
+                              <div class="coffee_img"><img src="images/4.png"></div>
+                              <h3 class="types_text">Mille</h3>
+                              <p class="looking_text">แบรนด์เครื่องสำอางที่เน้นการแต่งหน้าแบบเบาบาง เนื้อเนียนนุ่ม ติดทนนาน และให้ลุคธรรมชาติ</p>
                               <div class="read_bt"><a href="#">Read More</a></div>
                            </div>
                         </div>
