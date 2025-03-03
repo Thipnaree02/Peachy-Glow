@@ -71,7 +71,7 @@
       </div>
       <!-- header section end -->
       <!-- coffee section start -->
-      <div class="coffee_section layout_padding">
+      < class="coffee_section layout_padding">
          <div class="container">
             <div class="row">
                <h1 class="coffee_taital">OUR Coffee OFFER</h1>
@@ -110,7 +110,7 @@
                      </div>
                   </div>
                </div>
-                  <h1 class="coffee_taital"> </h1>
+               <br>
                      <div class="container-fluid">
                         <div class="row">
                            <div class="col-lg-3 col-md-6">
