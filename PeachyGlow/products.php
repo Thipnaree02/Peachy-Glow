@@ -82,25 +82,25 @@
                               <div class="coffee_img"><img src="images/1.png"></div>
                               <h3 class="types_text">Olay Regenerist</h3>
                               <p class="looking_text">ครีมบำรุงผิวช่วยลดเลือนริ้วรอย เสริมสร้างความยืดหยุ่น และกระชับผิว </p>
-                              <div class="read_bt"><a href="#">Read More</a></div>
+                              <div class="read_bt"><a href="#">เพิ่มตระกร้า</a></div>
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/2.png"></div>
                               <h3 class="types_text">Hada Labo</h3>
                               <p class="looking_text">โลชั่นและเซรั่มบำรุงผิวจากญี่ปุ่น เน้นการเติมความชุ่มชื้นล้ำลึกด้วยกรดไฮยาลูโรนิกหลายโมเลกุล</p>
-                              <div class="read_bt"><a href="#">Read More</a></div>
+                              <div class="read_bt"><a href="#">เพิ่มตระกร้า</a></div>
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/3.png"></div>
                               <h3 class="types_text">Anessa</h3>
                               <p class="looking_text">กันแดดจากญี่ปุ่นที่มีประสิทธิภาพสูง ป้องกันรังสี UVA/UVB และกันน้ำได้ดี เหมาะสำหรับกิจกรรมกลางแจ้ง</p>
-                              <div class="read_bt"><a href="#">Read More</a></div>
+                              <div class="read_bt"><a href="#">เพิ่มตระกร้า</a></div>
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/4.png"></div>
                               <h3 class="types_text">Mille</h3>
                               <p class="looking_text">แบรนด์เครื่องสำอางที่เน้นการแต่งหน้าแบบเบาบาง เนื้อเนียนนุ่ม ติดทนนาน และให้ลุคธรรมชาติ</p>
-                              <div class="read_bt"><a href="#">Read More</a></div>
+                              <div class="read_bt"><a href="#">เพิ่มตระกร้า</a></div>
                            </div>
                         </div>
                      </div>
@@ -113,25 +113,25 @@
                               <div class="coffee_img"><img src="images/5.png"></div>
                               <h3 class="types_text">Bio-Oil</h3>
                               <p class="looking_text">น้ำมันบำรุงผิวสำหรับลดรอยแผลเป็น รอยแตกลาย และปรับสีผิวให้สม่ำเสมอ พร้อมมอบความชุ่มชื้น</p>
-                              <div class="read_bt"><a href="#">Read More</a></div>
+                              <div class="read_bt"><a href="#">เพิ่มตระกร้า</a></div>
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/6.png"></div>
                               <h3 class="types_text">Ormedic</h3>
                               <p class="looking_text">ผลิตภัณฑ์ดูแลผิวแนวออร์แกนิก ช่วยปรับสมดุลผิว บำรุงและปลอบประโลมผิวบอบบาง</p>
-                              <div class="read_bt"><a href="#">Read More</a></div>
+                              <div class="read_bt"><a href="#">เพิ่มตระกร้า</a></div>
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/7.png"></div>
                               <h3 class="types_text">Eucerin Hyaluron</h3>
                               <p class="looking_text">เซรั่มและครีมที่ช่วยเติมเต็มริ้วรอยลึกด้วยไฮยาลูรอนิกแอซิด พร้อมเสริมความยืดหยุ่นของผิว</p>
-                              <div class="read_bt"><a href="#">Read More</a></div>
+                              <div class="read_bt"><a href="#">เพิ่มตระกร้า</a></div>
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/8.png"></div>
                               <h3 class="types_text">Garnier Fast Bright Vitamin C & Hyaloronic</h3>
                               <p class="looking_text">เซรั่มผสมวิตามิน C และไฮยาลูโรนิก ช่วยให้ผิวกระจ่างใสและชุ่มชื้น</p>
-                              <div class="read_bt"><a href="#">Read More</a></div>
+                              <div class="read_bt"><a href="#">เพิ่มตระกร้า</a></div>
                            </div>
                         </div>
                      </div>
@@ -143,25 +143,25 @@
                               <div class="coffee_img"><img src="images/9.png"></div>
                               <h3 class="types_text">Garnier Bright Complete Vitamin C Water</h3>
                               <p class="looking_text">น้ำตบวิตามิน C ช่วยปรับผิวให้กระจ่างใส ลดจุดด่างดำ และมอบความสดชื่น</p>
-                              <div class="read_bt"><a href="#">Read More</a></div>
+                              <div class="read_bt"><a href="#">เพิ่มตระกร้า</a></div>
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/10.png"></div>
                               <h3 class="types_text">Glycolic Bright Instant Glowing Serum</h3>
                               <p class="looking_text">ผลิตภัณฑ์เซรั่มบำรุงผิวหน้า เพื่อผิวดูโกลว์ และกระจ่างใสขึ้น สถาบันวิจัย ลอรีอัล ปารีส คิดค้นพัฒนานวัตกรรมเพื่อผิวดูโกลว์</p>
-                              <div class="read_bt"><a href="#">Read More</a></div>
+                              <div class="read_bt"><a href="#">เพิ่มตระกร้า</a></div>
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/11.png"></div>
                               <h3 class="types_text">The Ordinary</h3>
                               <p class="looking_text">ผลิตภัณฑ์รักษาสิว ด้วยสารละลายกรดซาลิไซลิก 2% และหากสิวยังไม่หายก็ไม่ต้องกังวล</p>
-                              <div class="read_bt"><a href="#">Read More</a></div>
+                              <div class="read_bt"><a href="#">เพิ่มตระกร้า</a></div>
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/12.png"></div>
                               <h3 class="types_text">Roushun</h3>
                               <p class="looking_text">ผลิตภัณฑ์ช่วยผลัดเซลล์ผิวที่ตายแล้วออกอย่างอ่อนโยน ทำความสะอาดผิวหน้าได้อย่างล้ำลึก เผยผิวดูกระจ่างใสขึ้น</p>
-                              <div class="read_bt"><a href="#">Read More</a></div>
+                              <div class="read_bt"><a href="#">เพิ่มตระกร้า</a></div>
                            </div>
                         </div>
                      </div>
@@ -238,27 +238,5 @@
       <!-- sidebar -->
       <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
       <script src="js/custom.js"></script>
-
-      <h1> insert product Form </h1>
-<form method = "post" action="">
-    Product Name <input type="text" name="pname" required autofocus <br>
-    Product Price <input type="text" name="pprice" required <br>
-    <button type="submit">Save</button>
-</form>
-
-<?php
-if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    include_once("../connectdb.php");
-    $pname = $_POST['pname'];
-    $pprice = $_POST['pprice'];
-    $sql = "INSERT INTO products (p_name, p_price) VALUES ('{$pname}','{$pprice}')";
-    mysqli_query($conn, $sql) or die ('insert error');
-    
-    echo "<script>";
-    echo "alert('success!');";
-    echo "</script>";
-    
-}
-?>
    </body>
 </html>
