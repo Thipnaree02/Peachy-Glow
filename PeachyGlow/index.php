@@ -296,7 +296,7 @@
                   </div>
                   <div class="map_main">
                      <div class="map-responsive">
-                        <iframe src="https://maps.app.goo.gl/AZukzU9wuT6Yg1nu9" width="250" height="500" frameborder="0" style="border:0; width: 100%;" allowfullscreen=""></iframe>
+                        <iframe src="https://www.google.com/maps/place/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B8%A1/@16.2463724,103.235584,14z/data=!4m10!1m2!2m1!1smap+msu!3m6!1s0x3122a6a4f3069f8b:0xf02b541f28931c0!8m2!3d16.2439983!4d103.2490469!15sCgdtYXAgbXN1WgUiA21zdZIBEXB1YmxpY191bml2ZXJzaXR5mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVI1ZVhaaWVEWm5SUkFC4AEA-gEFCKsBEBE!16zL20vMDVzbHp4?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D" width="250" height="500" frameborder="0" style="border:0; width: 100%;" allowfullscreen=""></iframe>
                      </div>
                   </div>
                </div>
