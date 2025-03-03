@@ -78,8 +78,6 @@
                <div class="bulit_icon"><img src="images/bulit-icon.png"></div>
             </div>
          </div>
-         <div class="coffee_section_2">
-            <div id="main_slider" class="carousel slide" data-ride="carousel">
                <div class="carousel-inner">
                   <div class="carousel-item active">
                      <div class="container-fluid">
