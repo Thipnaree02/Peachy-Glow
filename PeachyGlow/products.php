@@ -110,6 +110,7 @@
                      </div>
                   </div>
                </div>
+                  <h1 class="coffee_taital">OUR Coffee OFFER</h1>
                      <div class="container-fluid">
                         <div class="row">
                            <div class="col-lg-3 col-md-6">
