@@ -247,7 +247,6 @@
                   <div class="bulit_icon"><img src="images/bulit-icon.png"></div>
                </div>
             </div>
-
       <!-- about section end -->
       <!-- client section start -->
       <div class="client_section layout_padding">

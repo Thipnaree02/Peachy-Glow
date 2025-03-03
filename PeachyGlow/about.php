@@ -66,7 +66,7 @@
             </nav>
          </div>
       </div>
-      <!-- header section end -->
+      <!-- coffee section end -->
       <!-- about section start -->
       <div class="about_section layout_padding">
          <div class="container">
@@ -76,12 +76,52 @@
                   <div class="bulit_icon"><img src="images/bulit-icon.png"></div>
                </div>
             </div>
-            <div class="about_section_2 layout_padding">
-               <div class="image_iman"><img src="images/about-img.png" class="about_img"></div>
-               <div class="about_taital_box">
-                  <h1 class="about_taital_1">Coffee distribution '</h1>
-                  <p class=" about_text">has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editorhas a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editor</p>
-                  <div class="readmore_btn"><a href="#">Read More</a></div>
+      <!-- about section end -->
+      <!-- client section start -->
+      <div class="client_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12">
+                  <h1 class="about_taital">ผู้เชี่ยวชาญด้านความงาม</h1>
+                  <div class="bulit_icon"><img src="images/bulit-icon.png"></div>
+               </div>
+            </div>
+            <div class="client_section_2">
+               <div class="client_taital_main">
+                  <div class="client_left">
+                     <div class="client_img"><img src="images/member4.jpg"></div>
+                  </div>
+                  <div class="client_right">
+                     <h3 class="moark_text">นางสาว ทิพย์นารี เพตาเสน</h3>
+                     <p class="client_text">65010914602 </p>
+                  </div>
+               </div>
+               <div class="client_taital_main">
+                  <div class="client_left">
+                     <div class="client_img"><img src="images/member2.jpg"></div>
+                  </div>
+                  <div class="client_right">
+                     <h3 class="moark_text">นาย ภาคภูมิ นวะสิมัยนาม</h3>
+                     <p class="client_text">65010914606 </p>
+                  </div>
+               </div>
+               <div class="client_taital_main">
+                  <div class="client_left">
+                     <div class="client_img"><img src="images/member1.jpg"></div>
+                  </div>
+                  <div class="client_right">
+                     <h3 class="moark_text">นางสาว จุฑามาศ พรมวงศ์</h3>
+                     <p class="client_text">65010914608 </p>
+                  </div>
+               </div>
+                  <div class="client_taital_main">
+                     <div class="client_left">
+                        <div class="client_img"><img src="images/member3.jpg"></div>
+                     </div>
+                     <div class="client_right">
+                        <h3 class="moark_text">นาย ชวิน อนุสุริยา</h3>
+                        <p class="client_text">65010914626 </p>
+                     </div>
                </div>
             </div>
          </div>
