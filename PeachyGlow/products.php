@@ -140,6 +140,7 @@
                         </div>
                      </div>
                   </div>
+                  <br>
                      <div class="container-fluid">
                         <div class="row">
                            <div class="col-lg-3 col-md-6">
@@ -170,6 +171,7 @@
                      </div>
                   </div>
                </div>
+               <br>
                <a class="carousel-control-prev" href="#main_slider" role="button" data-slide="prev">
                <i class="fa fa-arrow-left"></i>
                </a>
