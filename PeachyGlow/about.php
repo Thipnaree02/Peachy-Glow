@@ -71,9 +71,9 @@
       <div class="about_section layout_padding">
          <div class="container">
             <div class="row">
-               <div class="col-md-6">
+               <div class="col-md-12">
                   <h1 class="about_taital">About Our shop</h1>
-                  <div class="bulit_icon"><img src="images/bulit-icon.png"></div>
+                  <div class="bulit_icon"><img src="images/bulit-icon.png"width="200"></div>
                </div>
             </div>
       <!-- about section end -->
