@@ -113,12 +113,7 @@
                   </div>
                </div>
          </div>
-         <div class="coffee_section layout_padding">
-         <div class="container">
-            <div class="row">
-               <h1 class="coffee_taital">OUR Coffee OFFER</h1>
-               <div class="bulit_icon"><img src="images/bulit-icon.png"></div>
-            </div>
+         </div>
          </div>
          <div class="coffee_section_2">
             <div id="main_slider" class="carousel slide" data-ride="carousel">
@@ -154,6 +149,8 @@
                      </div>
                   </div>
                </div>
+         </div>
+         </div>
          </div>
          <div class="coffee_section_2">
             <div id="main_slider" class="carousel slide" data-ride="carousel">
