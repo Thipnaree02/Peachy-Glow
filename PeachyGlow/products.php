@@ -48,9 +48,6 @@
                         <a class="nav-link" href="coffees.php">Products</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="shop.php">Shop</a>
-                     </li>
-                     <li class="nav-item">
                         <a class="nav-link" href="blog.php">Blog</a>
                      </li>
                      <li class="nav-item">
