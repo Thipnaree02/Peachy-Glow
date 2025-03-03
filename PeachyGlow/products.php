@@ -82,7 +82,6 @@
                               <div class="coffee_img"><img src="images/1.png"></div>
                               <h3 class="types_text">Olay Regenerist</h3>
                               <p class="looking_text">ครีมบำรุงผิวช่วยลดเลือนริ้วรอย เสริมสร้างความยืดหยุ่น และกระชับผิว </p>
-                              </div></p>
                               <div class="read_bt"><a href="#">Read More</a></div>
                            </div>
                            <div class="col-lg-3 col-md-6">
