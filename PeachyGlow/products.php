@@ -109,8 +109,6 @@
                         </div>
                      </div>
                   </div>
-                  <div class="carousel-item">
-                     <div class="container-fluid">
                         <div class="row">
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/5.png"></div>
