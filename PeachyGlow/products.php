@@ -71,7 +71,6 @@
       </div>
       <!-- header section end -->
       <!-- coffee section start -->
-      < class="coffee_section layout_padding">
          <div class="container">
             <div class="row">
                <h1 class="coffee_taital">OUR Coffee OFFER</h1>
