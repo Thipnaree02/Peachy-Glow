@@ -107,7 +107,7 @@
                </div>
                <div class="client_taital_main">
                   <div class="client_left">
-                     <div class="client_img"><img src="images/member1.jpg"width="200"></div>
+                     <div class="client_img"><img src="images/member1.jpg"></div>
                   </div>
                   <div class="client_right">
                      <h3 class="moark_text">นางสาว จุฑามาศ พรมวงศ์</h3>
