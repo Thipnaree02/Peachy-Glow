@@ -237,66 +237,6 @@
             </div>
          </div>
       </div>
-      <!-- coffee section end -->
-      <!-- about section start -->
-      <div class="about_section layout_padding">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12">
-                  <h1 class="about_taital">About Our shop</h1>
-                  <div class="bulit_icon"><img src="images/bulit-icon.png"></div>
-               </div>
-            </div>
-      <!-- about section end -->
-      <!-- client section start -->
-      <div class="client_section layout_padding">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12">
-                  <h1 class="about_taital">ผู้เชี่ยวชาญด้านความงาม</h1>
-                  <div class="bulit_icon"><img src="images/bulit-icon.png"></div>
-               </div>
-            </div>
-            <div class="client_section_2">
-               <div class="client_taital_main">
-                  <div class="client_left">
-                     <div class="client_img"><img src="images/member4.jpg"></div>
-                  </div>
-                  <div class="client_right">
-                     <h3 class="moark_text">นางสาว ทิพย์นารี เพตาเสน</h3>
-                     <p class="client_text">65010914602 </p>
-                  </div>
-               </div>
-               <div class="client_taital_main">
-                  <div class="client_left">
-                     <div class="client_img"><img src="images/member2.jpg"></div>
-                  </div>
-                  <div class="client_right">
-                     <h3 class="moark_text">นาย ภาคภูมิ นวะสิมัยนาม</h3>
-                     <p class="client_text">65010914606 </p>
-                  </div>
-               </div>
-               <div class="client_taital_main">
-                  <div class="client_left">
-                     <div class="client_img"><img src="images/member1.jpg"></div>
-                  </div>
-                  <div class="client_right">
-                     <h3 class="moark_text">นางสาว จุฑามาศ พรมวงศ์</h3>
-                     <p class="client_text">65010914608 </p>
-                  </div>
-               </div>
-                  <div class="client_taital_main">
-                     <div class="client_left">
-                        <div class="client_img"><img src="images/member3.jpg"></div>
-                     </div>
-                     <div class="client_right">
-                        <h3 class="moark_text">นาย ชวิน อนุสุริยา</h3>
-                        <p class="client_text">65010914626 </p>
-                     </div>
-               </div>
-            </div>
-         </div>
-      </div>
       <!-- client section end -->
       <!-- blog section start -->
       <div class="blog_section layout_padding">
