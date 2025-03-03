@@ -190,12 +190,12 @@
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/7.png"></div>
-                              <h3 class="types_text">COFFEE & PASTRY</h3>
+                              <h3 class="types_text">Eucerin Hyaluron</h3>
                               <p class="looking_text">เซรั่มและครีมที่ช่วยเติมเต็มริ้วรอยลึกด้วยไฮยาลูรอนิกแอซิด พร้อมเสริมความยืดหยุ่นของผิว</p>
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/8.png"></div>
-                              <h3 class="types_text">COFFEE TO GO</h3>
+                              <h3 class="types_text">Garnier Fast Bright Vitamin C & Hyaloronic</h3>
                               <p class="looking_text">เซรั่มผสมวิตามิน C และไฮยาลูโรนิก ช่วยให้ผิวกระจ่างใสและชุ่มชื้น</p>
                            </div>
                         </div>
@@ -206,22 +206,22 @@
                         <div class="row">
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/9.png"></div>
-                              <h3 class="types_text">TYPES OF COFFEE</h3>
+                              <h3 class="types_text">Garnier Bright Complete Vitamin C Water</h3>
                               <p class="looking_text">น้ำตบวิตามิน C ช่วยปรับผิวให้กระจ่างใส ลดจุดด่างดำ และมอบความสดชื่น</p>
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/10.png"></div>
-                              <h3 class="types_text">BEAN VARIETIES</h3>
+                              <h3 class="types_text">Glycolic Bright Instant Glowing Serum</h3>
                               <p class="looking_text">ผลิตภัณฑ์เซรั่มบำรุงผิวหน้า เพื่อผิวดูโกลว์ และกระจ่างใสขึ้น สถาบันวิจัย ลอรีอัล ปารีส คิดค้นพัฒนานวัตกรรมเพื่อผิวดูโกลว์ และกระจ่างใสขึ้นในทันที ด้วยพลัง ไกลโคลิค แอซิด ผิวดูกระจ่างใสขึ้น จุดด่างดำดูลดเลือน</p>
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/11.png"></div>
-                              <h3 class="types_text">COFFEE & PASTRY</h3>
+                              <h3 class="types_text">The Ordinary</h3>
                               <p class="looking_text">ผลิตภัณฑ์รักษาสิว ด้วยสารละลายกรดซาลิไซลิก 2% และหากสิวยังไม่หายก็ไม่ต้องกังวล เพราะผลิตภัณฑ์นี้อ่อนโยนพอที่จะใช้ในตอนเช้าโดยไม่ต้องกังวลเรื่องการอักเสบ</p>
                            </div>
                            <div class="col-lg-3 col-md-6">
                               <div class="coffee_img"><img src="images/12.png"></div>
-                              <h3 class="types_text">COFFEE TO GO</h3>
+                              <h3 class="types_text">Roushun</h3>
                               <p class="looking_text">ผลิตภัณฑ์ช่วยผลัดเซลล์ผิวที่ตายแล้วออกอย่างอ่อนโยน ทำความสะอาดผิวหน้าได้อย่างล้ำลึก เผยผิวดูกระจ่างใสขึ้น</p>
                            </div>
                         </div>
