@@ -203,13 +203,13 @@ https://templatemo.com/tm-571-hexashop
                                 </div>
                             </div>
                             <img src="assets/images/team-member-02.jpg">
-                        </div><br>
+                        </div>
                         <div class="down-content">
                             <h4>Ragnar Lodbrok</h4>
                             <span>Product Caretaker</span>
                         </div>
                     </div>
-                </div>
+                </div><br>
                 <div class="col-lg-4">
                     <div class="team-item">
                         <div class="thumb">
