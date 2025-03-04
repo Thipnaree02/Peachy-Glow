@@ -209,7 +209,7 @@ https://templatemo.com/tm-571-hexashop
                             <span>Product Caretaker</span>
                         </div>
                     </div>
-                </div><br>
+                </div>
                 <div class="col-lg-4">
                     <div class="team-item">
                         <div class="thumb">
