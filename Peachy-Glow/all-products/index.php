@@ -324,8 +324,8 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-6">
                     <div class="section-heading">
-                        <h2>Women's Latest</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <h2>Skincare</h2>
+                        <span>แสงแดด มลภาวะ และความแห้งกร้าน โดยใช้ผลิตภัณฑ์ที่เหมาะกับสภาพผิว.</span>
                     </div>
                 </div>
             </div>
@@ -344,11 +344,11 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/women-01.jpg" alt="">
+                                    <img src="assets/images/5.jpg" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>New Green Jacket</h4>
-                                    <span>$75.00</span>
+                                    <h4>Bio-Oil</h4>
+                                    <span>฿620.00</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -367,11 +367,11 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/women-02.jpg" alt="">
+                                    <img src="assets/images/6.jpg" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Classic Dress</h4>
-                                    <span>$45.00</span>
+                                    <h4>Ormedic</h4>
+                                    <span>฿229.00</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -390,11 +390,11 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/women-03.jpg" alt="">
+                                    <img src="assets/images/7.jpg" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Spring Collection</h4>
-                                    <span>$130.00</span>
+                                    <h4>Eucerin Hyaluron</h4>
+                                    <span>฿675.00</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -413,11 +413,11 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/women-01.jpg" alt="">
+                                    <img src="assets/images/8.jpg" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Classic Spring</h4>
-                                    <span>$120.00</span>
+                                    <h4>Garnier Fast Bright Vitamin C & Hyaloronic</h4>
+                                    <span>฿499.00</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -461,11 +461,11 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/kid-01.jpg" alt="">
+                                    <img src="assets/images/9.jpg" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>School Collection</h4>
-                                    <span>$80.00</span>
+                                    <h4>Garnier Bright Complete Vitamin C Water</h4>
+                                    <span>฿259.00</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -484,11 +484,11 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/kid-02.jpg" alt="">
+                                    <img src="assets/images/10.jpg" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Summer Cap</h4>
-                                    <span>$12.00</span>
+                                    <h4>Glycolic Bright Instant Glowing Serum</h4>
+                                    <span>฿599.00</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -507,11 +507,11 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/kid-03.jpg" alt="">
+                                    <img src="assets/images/11.jpg" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Classic Kid</h4>
-                                    <span>$30.00</span>
+                                    <h4>The Ordinary</h4>
+                                    <span>฿245.00</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -530,11 +530,11 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/kid-01.jpg" alt="">
+                                    <img src="assets/images/12.jpg" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Classic Spring</h4>
-                                    <span>$120.00</span>
+                                    <h4>Roushun</h4>
+                                    <span>฿120.00</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
