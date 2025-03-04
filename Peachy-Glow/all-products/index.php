@@ -227,7 +227,7 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/1.jpg" alt="">
+                                    <img src="assets/images/1.png" alt="">
                                 </div>
                                 <div class="down-content">
                                     <h4>Classic Spring</h4>
@@ -250,7 +250,7 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/2.jpg" alt="">
+                                    <img src="assets/images/2.png" alt="">
                                 </div>
                                 <div class="down-content">
                                     <h4>Air Force 1 X</h4>
@@ -273,7 +273,7 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/3.jpg" alt="">
+                                    <img src="assets/images/3.png" alt="">
                                 </div>
                                 <div class="down-content">
                                     <h4>Love Nana ‘20</h4>
@@ -296,7 +296,7 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/4.jpg" alt="">
+                                    <img src="assets/images/4.png" alt="">
                                 </div>
                                 <div class="down-content">
                                     <h4>Classic Spring</h4>
