@@ -230,8 +230,8 @@ https://templatemo.com/tm-571-hexashop
                                     <img src="assets/images/1.png" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Classic Spring</h4>
-                                    <span>$120.00</span>
+                                    <h4>Olay Regenerist</h4>
+                                    <span>฿599.00</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -253,8 +253,8 @@ https://templatemo.com/tm-571-hexashop
                                     <img src="assets/images/2.png" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Air Force 1 X</h4>
-                                    <span>$90.00</span>
+                                    <h4>Hada Labo</h4>
+                                    <span>฿520.00</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -276,8 +276,8 @@ https://templatemo.com/tm-571-hexashop
                                     <img src="assets/images/3.png" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Love Nana ‘20</h4>
-                                    <span>$150.00</span>
+                                    <h4>Anessa</h4>
+                                    <span>฿775.00</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -299,8 +299,8 @@ https://templatemo.com/tm-571-hexashop
                                     <img src="assets/images/4.png" alt="">
                                 </div>
                                 <div class="down-content">
-                                    <h4>Classic Spring</h4>
-                                    <span>$120.00</span>
+                                    <h4>Mille</h4>
+                                    <span>฿599.00</span>
                                     <ul class="stars">
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
