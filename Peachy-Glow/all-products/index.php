@@ -344,7 +344,7 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/5.jpg" alt="">
+                                    <img src="assets/images/5.png" alt="">
                                 </div>
                                 <div class="down-content">
                                     <h4>Bio-Oil</h4>
@@ -367,7 +367,7 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/6.jpg" alt="">
+                                    <img src="assets/images/6.png" alt="">
                                 </div>
                                 <div class="down-content">
                                     <h4>Ormedic</h4>
@@ -390,7 +390,7 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/7.jpg" alt="">
+                                    <img src="assets/images/7.png" alt="">
                                 </div>
                                 <div class="down-content">
                                     <h4>Eucerin Hyaluron</h4>
@@ -413,7 +413,7 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/8.jpg" alt="">
+                                    <img src="assets/images/8.png" alt="">
                                 </div>
                                 <div class="down-content">
                                     <h4>Garnier Fast Bright Vitamin C & Hyaloronic</h4>
@@ -461,7 +461,7 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/9.jpg" alt="">
+                                    <img src="assets/images/9.png" alt="">
                                 </div>
                                 <div class="down-content">
                                     <h4>Garnier Bright Complete Vitamin C Water</h4>
@@ -484,7 +484,7 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/10.jpg" alt="">
+                                    <img src="assets/images/10.png" alt="">
                                 </div>
                                 <div class="down-content">
                                     <h4>Glycolic Bright Instant Glowing Serum</h4>
@@ -507,7 +507,7 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/11.jpg" alt="">
+                                    <img src="assets/images/11.png" alt="">
                                 </div>
                                 <div class="down-content">
                                     <h4>The Ordinary</h4>
@@ -530,7 +530,7 @@ https://templatemo.com/tm-571-hexashop
                                             <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
-                                    <img src="assets/images/12.jpg" alt="">
+                                    <img src="assets/images/12.png" alt="">
                                 </div>
                                 <div class="down-content">
                                     <h4>Roushun</h4>
