@@ -106,7 +106,7 @@ https://templatemo.com/tm-571-hexashop
                                     <a href="#">Purchase Now!</a>
                                 </div>
                             </div>
-                            <img src="assets/images/backgroung-01.jpg" alt="">
+                            <img src="assets/images/backgroung-01.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -129,7 +129,7 @@ https://templatemo.com/tm-571-hexashop
                                                 </div>
                                             </div>
                                         </div>
-                                        <img src="assets/images/backgroung-02.jpg">
+                                        <img src="assets/images/backgroung-02.png">
                                     </div>
                                 </div>
                             </div>
@@ -149,7 +149,7 @@ https://templatemo.com/tm-571-hexashop
                                                 </div>
                                             </div>
                                         </div>
-                                        <img src="assets/images/backgroung-03.jpg">
+                                        <img src="assets/images/backgroung-03.png">
                                     </div>
                                 </div>
                             </div>
@@ -169,7 +169,7 @@ https://templatemo.com/tm-571-hexashop
                                                 </div>
                                             </div>
                                         </div>
-                                        <img src="assets/images/backgroung-04.jpg">
+                                        <img src="assets/images/backgroung-04.png">
                                     </div>
                                 </div>
                             </div>
@@ -189,7 +189,7 @@ https://templatemo.com/tm-571-hexashop
                                                 </div>
                                             </div>
                                         </div>
-                                        <img src="assets/images/backgroung-05.jpg">
+                                        <img src="assets/images/backgroung-05.png">
                                     </div>
                                 </div>
                             </div>
