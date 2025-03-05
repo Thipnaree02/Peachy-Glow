@@ -160,11 +160,11 @@ https://templatemo.com/tm-571-hexashop
                                     </ul>
                                 </div>
                             </div>
-                            <img src="assets/images/team-member-01.jpg">
+                            <img src="assets/images/member01.jpg">
                         </div>
                         <div class="down-content">
-                            <h4>Ragnar Lodbrok</h4>
-                            <span>Product Caretaker</span>
+                            <h4>นางสาว ทิพย์นารี เพตาเสน</h4>
+                            <span>65010914602</span>
                         </div>
                     </div>
                 </div>
@@ -181,11 +181,11 @@ https://templatemo.com/tm-571-hexashop
                                     </ul>
                                 </div>
                             </div>
-                            <img src="assets/images/team-member-02.jpg">
+                            <img src="assets/images/member02.jpg">
                         </div>
                         <div class="down-content">
-                            <h4>Ragnar Lodbrok</h4>
-                            <span>Product Caretaker</span>
+                            <h4>นาย ภาคภูมิ นวะสิมัยนาม</h4>
+                            <span>65010914606</span>
                         </div>
                     </div>
                 </div>
@@ -202,11 +202,11 @@ https://templatemo.com/tm-571-hexashop
                                     </ul>
                                 </div>
                             </div>
-                            <img src="assets/images/team-member-02.jpg">
+                            <img src="assets/images/member03.jpg">
                         </div>
                         <div class="down-content">
-                            <h4>Ragnar Lodbrok</h4>
-                            <span>Product Caretaker</span>
+                            <h4>นางสาว จุฑามาศ พรมวงศ์</h4>
+                            <span>65010914608</span>
                         </div>
                     </div>
                 </div>
@@ -223,11 +223,11 @@ https://templatemo.com/tm-571-hexashop
                                     </ul>
                                 </div>
                             </div>
-                            <img src="assets/images/team-member-03.jpg">
+                            <img src="assets/images/member04.jpg">
                         </div>
                         <div class="down-content">
-                            <h4>Ragnar Lodbrok</h4>
-                            <span>Product Caretaker</span>
+                            <h4>นาย ชวิน อนุสุริยา</h4>
+                            <span>65010914626</span>
                         </div>
                     </div>
                 </div>
