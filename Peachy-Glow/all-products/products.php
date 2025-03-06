@@ -132,11 +132,11 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
-                            <img src="assets/images/men-01.jpg" alt="">
+                            <img src="assets/images/1.png" alt="">
                         </div>
                         <div class="down-content">
-                            <h4>Classic Spring</h4>
-                            <span>$120.00</span>
+                            <h4>Olay Regenerist</h4>
+                            <span>฿599.00</span>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -157,11 +157,11 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
-                            <img src="assets/images/men-02.jpg" alt="">
+                            <img src="assets/images/2.png" alt="">
                         </div>
                         <div class="down-content">
-                            <h4>Air Force 1 X</h4>
-                            <span>$90.00</span>
+                            <h4>Hada Labo</h4>
+                            <span>฿520.00</span>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -182,11 +182,11 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
-                            <img src="assets/images/men-03.jpg" alt="">
+                            <img src="assets/images/3.png" alt="">
                         </div>
                         <div class="down-content">
-                            <h4>Love Nana ‘20</h4>
-                            <span>$150.00</span>
+                            <h4>Anessa</h4>
+                            <span>฿775.00</span>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -207,11 +207,11 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
-                            <img src="assets/images/women-01.jpg" alt="">
+                            <img src="assets/images/4.png" alt="">
                         </div>
                         <div class="down-content">
-                            <h4>New Green Jacket</h4>
-                            <span>$75.00</span>
+                            <h4>Mille</h4>
+                            <span>฿599.00</span>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -232,11 +232,11 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
-                            <img src="assets/images/women-02.jpg" alt="">
+                            <img src="assets/images/5.png" alt="">
                         </div>
                         <div class="down-content">
-                            <h4>Classic Dress</h4>
-                            <span>$45.00</span>
+                            <h4>Bio-Oil</h4>
+                            <span>฿620.00</span>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -257,11 +257,11 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
-                            <img src="assets/images/women-03.jpg" alt="">
+                            <img src="assets/images/6.png" alt="">
                         </div>
                         <div class="down-content">
-                            <h4>Spring Collection</h4>
-                            <span>$130.00</span>
+                            <h4>Ormedic</h4>
+                            <span>฿229.00</span>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -282,11 +282,11 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
-                            <img src="assets/images/kid-01.jpg" alt="">
+                            <img src="assets/images/7.png" alt="">
                         </div>
                         <div class="down-content">
-                            <h4>School Collection</h4>
-                            <span>$80.00</span>
+                            <h4>Eucerin Hyaluron</h4>
+                            <span>฿675.00</span>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -307,11 +307,11 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
-                            <img src="assets/images/kid-02.jpg" alt="">
+                            <img src="assets/images/8.png" alt="">
                         </div>
                         <div class="down-content">
-                            <h4>Summer Cap</h4>
-                            <span>$12.00</span>
+                            <h4>Garnier Fast Bright Vitamin C & Hyaloronic</h4>
+                            <span>฿499.00</span>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -332,11 +332,11 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
-                            <img src="assets/images/kid-03.jpg" alt="">
+                            <img src="assets/images/9.png" alt="">
                         </div>
                         <div class="down-content">
-                            <h4>Classic Kid</h4>
-                            <span>$30.00</span>
+                            <h4>Garnier Bright Complete Vitamin C Water</h4>
+                            <span>฿259.00</span>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -351,7 +351,7 @@ https://templatemo.com/tm-571-hexashop
                     <div class="pagination">
                         <ul>
                             <li>
-                                <a href="#">1</a>
+                                <a href="features Page 1">1</a>
                             </li>
                             <li class="active">
                                 <a href="#">2</a>
