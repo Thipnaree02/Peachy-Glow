@@ -113,7 +113,7 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-6">
                     <div id="map">
-                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.4576788328063!2d103.24503407490816!3d16.24829708445751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3122a39997b0ef51%3A0x846e64234611352e!2z4LiE4LiT4Liw4LiB4Liy4Lij4Lia4Lix4LiN4LiK4Li14LmB4Lil4Liw4LiB4Liy4Lij4LiI4Lix4LiU4LiB4Liy4LijIOC4oeC4q-C4suC4p-C4tOC4l-C4ouC4suC4peC4seC4ouC4oeC4q-C4suC4quC4suC4o-C4hOC4suC4oQ!5e0!3m2!1sth!2sth!4v1741361295571!5m2!1sth!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.4576788328063!2d103.24503407490816!3d16.24829708445751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3122a39997b0ef51%3A0x846e64234611352e!2z4LiE4LiT4Liw4LiB4Liy4Lij4Lia4Lix4LiN4LiK4Li14LmB4Lil4Liw4LiB4Liy4Lij4LiI4Lix4LiU4LiB4Liy4LijIOC4oeC4q-C4suC4p-C4tOC4l-C4ouC4suC4peC4seC4ouC4oeC4q-C4suC4quC4suC4o-C4hOC4suC4oQ!5e0!3m2!1sth!2sth!4v1741361295571!5m2!1sth!2sth" width="100%" height="400px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                       <!-- You can simply copy and paste "Embed a map" code from Google Maps for any location. -->
                       
                     </div>
