@@ -114,8 +114,8 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-8">
                 <div class="left-images">
-                    <img src="assets/images/product-01.png" alt="">
-                    <img src="assets/images/product-01-1.png" alt="">
+                    <img src="assets/images/product-01.png" alt="Product 1">
+                    <img src="assets/images/product-01-1.png" alt="Product 1 Extra">
                 </div>
             </div>
             <div class="col-lg-4">
