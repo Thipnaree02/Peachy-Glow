@@ -351,7 +351,7 @@ https://templatemo.com/tm-571-hexashop
                     <div class="pagination">
                         <ul>
                             <li>
-                                <a href="features Page 1">1</a>
+                                <a href="features Page 1.php">1</a>
                             </li>
                             <li class="active">
                                 <a href="#">2</a>
