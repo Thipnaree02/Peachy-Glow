@@ -164,9 +164,12 @@ https://templatemo.com/tm-571-hexashop
                             <img src="assets/images/white-logo.png" alt="hexashop ecommerce templatemo">
                         </div>
                         <ul>
-                            <li><a href="#">16501 Collins Ave, Sunny Isles Beach, FL 33160, United States</a></li>
-                            <li><a href="#">hexashop@company.com</a></li>
-                            <li><a href="#">010-020-0340</a></li>
+                            <li><a href="#">Faculty of Accounting and Management, Mahasarakham University, Khamriang Subdistrict, Kantharawichai District, Maha Sarakham 44150, Thailand</a></li>
+                            <li><a href="#">65010914602@msu.ac.th<br>
+                                            65010914606@msu.ac.th<br>
+                                            65010914608@msu.ac.th<br>
+                                            65010914626@msu.ac.th</a></li>
+                            <li><a href="#">043-754-321</a></li>
                         </ul>
                     </div>
                 </div>
