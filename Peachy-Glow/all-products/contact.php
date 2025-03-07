@@ -113,7 +113,7 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-6">
                     <div id="map">
-                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3870.925932812207!2d103.28741277577554!3d16.2459801845396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31226b3dbbdcbe3b%3A0x225fd853d0a5a6a4!2z4Lio4Li54LiZ4LiE4Li44Liq4Liy4Lij4LiT4LmA4LiX4Liy4Lij4LmM!5e0!3m2!1sth!2sth!4v1709800000000!5m2!1sth!2sth" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3870.926565193926!2d103.28873277577561!3d16.2461254845395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31226b3dbbdcbe3b%3A0x225fd853d0a5a6a4!2z4Lio4Li54LiZ4LiE4Li44Liq4Liy4Lij4LiT4LmA4LiX4Liy4Lij4LmM!5e0!3m2!1sth!2sth!4v1709800000000!5m2!1sth!2sth" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe>
                       <!-- You can simply copy and paste "Embed a map" code from Google Maps for any location. -->
                       
                     </div>
