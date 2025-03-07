@@ -353,14 +353,14 @@ https://templatemo.com/tm-571-hexashop
                             <li>
                                 <a href="features Page 1.php">1</a>
                             </li>
-                            <li class="active">
-                                <a href="#">2</a>
+                            <li>
+                                <a href="features Page 2.php">2</a>
                             </li>
                             <li>
-                                <a href="#">3</a>
+                                <a href="features Page 3.php">3</a>
                             </li>
                             <li>
-                                <a href="#">4</a>
+                                <a href="features Page 4.php">4</a>
                             </li>
                             <li>
                                 <a href="#">></a>
