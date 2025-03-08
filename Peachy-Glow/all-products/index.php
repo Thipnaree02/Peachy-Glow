@@ -268,9 +268,9 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="single-product1.php"><i class="fa fa-eye"></i></a></li>
+                                            <li><a href="single-product1.php"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="single-product1.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
                                     <img src="assets/images/3.png" alt="">
