@@ -174,7 +174,7 @@ https://templatemo.com/tm-571-hexashop
                             <div class="hover-effect">
                                 <div class="inner-content">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="https://www.instagram.com/thipnaree.ng?igsh=bWVpejEyd2toNWh2&utm_source=qr"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                         <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                                         <li><a href="#"><i class="fa fa-behance"></i></a></li>

@@ -575,8 +575,8 @@ https://templatemo.com/tm-571-hexashop
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="leather">
-                                    <h4>Leather Bags</h4>
-                                    <span>Latest Collection</span>
+                                    <h4>Skincare</h4>
+                                    <span>Skincare Exfoliator</span>
                                 </div>
                             </div>
                             <div class="col-lg-6">
