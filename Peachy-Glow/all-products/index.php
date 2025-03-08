@@ -558,13 +558,13 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-6">
                     <div class="left-content">
-                        <h2>Explore Our Products</h2>
-                        <span>You are allowed to use this HexaShop HTML CSS template. You can feel free to modify or edit this layout. You can convert this template as any kind of ecommerce CMS theme as you wish.</span>
+                        <h2>ข้อมูลผลิตภัณฑ์เพิ่มเติม</h2>
+                        <span>กระบวนการดูแลและบำรุงผิว เพื่อให้ผิวมีสุขภาพดี เนียนนุ่ม และดูเปล่งปลั่ง โดยครอบคลุมตั้งแต่การทำความสะอาด เติมความชุ่มชื้น ปกป้องผิวจากแสงแดด ไปจนถึงการฟื้นฟูและแก้ไขปัญหาผิวเฉพาะจุด เช่น รอยดำ รอยแดง สิว หรือริ้วรอย.</span>
                         <div class="quote">
-                            <i class="fa fa-quote-left"></i><p>You are not allowed to redistribute this template ZIP file on any other website.</p>
+                            <i class="fa fa-quote-left"></i><p>เป้าหมายของการใช้สกินแคร์คือการเสริมสร้างเกราะป้องกันผิว และช่วยให้ผิวดูสุขภาพดีอย่างยั่งยืน.</p>
                         </div>
-                        <p>There are 5 pages included in this HexaShop Template and we are providing it to you for absolutely free of charge at our TemplateMo website. There are web development costs for us.</p>
-                        <p>If this template is beneficial for your website or business, please kindly <a rel="nofollow" href="https://paypal.me/templatemo" target="_blank">support us</a> a little via PayPal. Please also tell your friends about our great website. Thank you.</p>
+                        <p>กระบวนการดูแลผิวหน้าและผิวกาย โดยการใช้ผลิตภัณฑ์บำรุงผิวต่าง ๆ เพื่อปรับสภาพผิวให้แข็งแรงและมีสุขภาพดี ไม่ว่าจะเป็นการทำความสะอาดผิว, การบำรุง, การเติมความชุ่มชื้น, หรือการปกป้องผิวจากแสงแดด โดยสามารถใช้ผลิตภัณฑ์ที่เหมาะสมกับประเภทผิว เช่น ผิวแห้ง ผิวมัน หรือผิวผสม.</p>
+                        <p>นอกจากการเลือกใช้ผลิตภัณฑ์ที่เหมาะสมกับสภาพผิวแล้ว ไลฟ์สไตล์ ก็มีบทบาทสำคัญ! การพักผ่อนให้เพียงพอ ดื่มน้ำเยอะ ๆ และทานอาหารที่มีประโยชน์ ช่วยเสริมสร้างผิวสวยจากภายในสู่ภายนอก.</p>
                         <div class="main-border-button">
                             <a href="products.php">Discover More</a>
                         </div>
