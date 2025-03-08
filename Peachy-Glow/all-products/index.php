@@ -695,7 +695,7 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-8">
                     <div class="section-heading">
                         <h2>By Subscribing To Our Newsletter You Can Get 30% Off</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <span>Details to details is what makes PeachyGlow different from the other themes.</span>
                     </div>
                     <form id="subscribe" action="" method="get">
                         <div class="row">
@@ -721,15 +721,15 @@ https://templatemo.com/tm-571-hexashop
                     <div class="row">
                         <div class="col-6">
                             <ul>
-                                <li>Store Location:<br><span>Sunny Isles Beach, FL 33160, United States</span></li>
-                                <li>Phone:<br><span>010-020-0340</span></li>
-                                <li>Office Location:<br><span>North Miami Beach</span></li>
+                                <li>Store Location:<br><span>Faculty of Accounting and Management, Mahasarakham University,44150</span></li>
+                                <li>Phone:<br><span>043-754-321</span></li>
+                                <li>Office Location:<br><span>Mahasarakham University</span></li>
                             </ul>
                         </div>
                         <div class="col-6">
                             <ul>
-                                <li>Work Hours:<br><span>07:30 AM - 9:30 PM Daily</span></li>
-                                <li>Email:<br><span>info@company.com</span></li>
+                                <li>Work Hours:<br><span>09:30 AM - 9:30 PM Daily</span></li>
+                                <li>Email:<br><span>peachyglow@company.com</span></li>
                                 <li>Social Media:<br><span><a href="#">Facebook</a>, <a href="#">Instagram</a>, <a href="#">Behance</a>, <a href="#">Linkedin</a></span></li>
                             </ul>
                         </div>
