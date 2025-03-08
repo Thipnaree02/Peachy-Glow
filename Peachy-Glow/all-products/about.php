@@ -144,7 +144,7 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-12">
                     <div class="section-heading">
                         <h2>Our Amazing Team</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <span>Details to details is what makes PeachyGlow different from the other themes.</span>
                     </div>
                 </div>
                 <div class="col-lg-4">

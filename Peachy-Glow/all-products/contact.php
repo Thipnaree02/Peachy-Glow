@@ -99,7 +99,7 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-12">
                     <div class="inner-content">
                         <h2>Contact Us</h2>
-                        <span>Awesome, clean &amp; creative HTML5 Template</span>
+                        <span>ลูกค้าพบปัญหาสามารถติดต่อบริษัท PeachyGlow จำกัด ตาม Maps ที่ทางร้ายปักหมุดไว้ให้ได้เลย</span>
                     </div>
                 </div>
             </div>
@@ -121,7 +121,7 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-6">
                     <div class="section-heading">
                         <h2>Say Hello. Don't Be Shy!</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <span>Details to details is what makes PeachyGlow different from the other themes.</span>
                     </div>
                     <form id="contact" action="" method="post">
                         <div class="row">
@@ -159,7 +159,7 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-8">
                     <div class="section-heading">
                         <h2>By Subscribing To Our Newsletter You Can Get 30% Off</h2>
-                        <span>Details to details is what makes Hexashop different from the other themes.</span>
+                        <span>Details to details is what makes PeachyGlow different from the other themes.</span>
                     </div>
                     <form id="subscribe" action="" method="get">
                         <div class="row">
@@ -185,15 +185,15 @@ https://templatemo.com/tm-571-hexashop
                     <div class="row">
                         <div class="col-6">
                             <ul>
-                                <li>Store Location:<br><span>Sunny Isles Beach, FL 33160, United States</span></li>
-                                <li>Phone:<br><span>010-020-0340</span></li>
-                                <li>Office Location:<br><span>North Miami Beach</span></li>
+                                <li>Store Location:<br><span>Faculty of Accounting and Management, Mahasarakham University,44150</span></li>
+                                <li>Phone:<br><span>043-754-321</span></li>
+                                <li>Office Location:<br><span>Mahasarakham University</span></li>
                             </ul>
                         </div>
                         <div class="col-6">
                             <ul>
-                                <li>Work Hours:<br><span>07:30 AM - 9:30 PM Daily</span></li>
-                                <li>Email:<br><span>info@company.com</span></li>
+                                <li>Work Hours:<br><span>09:30 AM - 9:30 PM Daily</span></li>
+                                <li>Email:<br><span>ipeachyglow@company.com</span></li>
                                 <li>Social Media:<br><span><a href="#">Facebook</a>, <a href="#">Instagram</a>, <a href="#">Behance</a>, <a href="#">Linkedin</a></span></li>
                             </ul>
                         </div>
@@ -226,18 +226,18 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-3">
                     <h4>Shopping &amp; Categories</h4>
                     <ul>
-                        <li><a href="#">Men’s Shopping</a></li>
-                        <li><a href="#">Women’s Shopping</a></li>
-                        <li><a href="#">Kid's Shopping</a></li>
+                        <li><a href="index.php">Clear up acne Shopping</a></li>
+                        <li><a href="index.php">Hyperpigmentation Shopping</a></li>
+                        <li><a href="index.php">Bright Shopping</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
                     <h4>Useful Links</h4>
                     <ul>
                         <li><a href="#">Homepage</a></li>
-                        <li><a href="#">About Us</a></li>
+                        <li><a href="about.php">About Us</a></li>
                         <li><a href="#">Help</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
