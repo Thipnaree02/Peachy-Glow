@@ -99,7 +99,7 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-12">
                     <div class="inner-content">
                         <h2>Contact Us</h2>
-                        <span>ลูกค้าพบปัญหาสามารถติดต่อบริษัท PeachyGlow จำกัด ตาม Maps ที่ทางร้ายปักหมุดไว้ให้ได้เลย</span>
+                        <span>ลูกค้าพบปัญหาสามารถติดต่อบริษัท PeachyGlow จำกัด ตาม Maps ที่ทางร้านปักหมุดไว้ให้ได้เลย</span>
                     </div>
                 </div>
             </div>
