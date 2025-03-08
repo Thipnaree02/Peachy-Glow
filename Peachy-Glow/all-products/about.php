@@ -119,11 +119,11 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-6">
                     <div class="right-content">
                         <h4>About Us &amp; Our Skills</h4>
-                        <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod kon tempor incididunt ut labore.</span>
+                        <span>แบรนด์สกินแคร์ที่มุ่งมั่นในการมอบผลิตภัณฑ์คุณภาพสูงที่ช่วยดูแลและฟื้นฟูผิวพรรณให้สุขภาพดีอย่างยั่งยืน ด้วยการคัดสรรส่วนผสมจากธรรมชาติและเทคโนโลยีการผลิตที่ทันสมัย.</span>
                         <div class="quote">
-                            <i class="fa fa-quote-left"></i><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiuski smod kon tempor incididunt ut labore.</p>
+                            <i class="fa fa-quote-left"></i><p>เพื่อดูแลและฟื้นฟูผิวพรรณให้ดูสุขภาพดี กระจ่างใส และมีความชุ่มชื้นอย่างยั่งยืน โดยมีเป้าหมายในการช่วยให้ผู้ใช้ทุกคนสามารถมีผิวที่เนียนนุ่ม.</p>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod kon tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+                        <p>ราออกแบบผลิตภัณฑ์เพื่อทุกสภาพผิว พร้อมตอบโจทย์ปัญหาผิวต่าง ๆ ไม่ว่าจะเป็นสิว รอยดำ ริ้วรอย หรือผิวหมองคล้ำ เป้าหมายของเราคือการช่วยให้ทุกคนมีผิวที่เนียนนุ่ม กระจ่างใส และมั่นใจในทุกวัน ด้วยความเชื่อในคุณค่าแห่งการดูแลตัวเองอย่างแท้จริง.</p>
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
