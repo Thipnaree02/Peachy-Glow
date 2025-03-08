@@ -418,7 +418,7 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="down-content">
                                     <h4>Garnier Fast Bright Vitamin C & Hyaloronic</h4>
                                     <span>฿499.00</span>
-                                    <ul class="stars">
+                                    <ul class="stars"><br></br>
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -466,7 +466,7 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="down-content">
                                     <h4>Garnier Bright Complete Vitamin C Water</h4>
                                     <span>฿259.00</span>
-                                    <ul class="stars">
+                                    <ul class="stars"><br></br>
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
@@ -489,7 +489,7 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="down-content">
                                     <h4>Glycolic Bright Instant Glowing Serum</h4>
                                     <span>฿599.00</span>
-                                    <ul class="stars">
+                                    <ul class="stars"><br></br>
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
                                         <li><i class="fa fa-star"></i></li>
