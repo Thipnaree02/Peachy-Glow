@@ -338,7 +338,7 @@ https://templatemo.com/tm-571-hexashop
                         <div class="down-content">
                             <h4>Garnier Bright Complete Vitamin C Water</h4>
                             <span>฿259.00</span>
-                            <ul class="stars"><br>
+                            <ul class="stars"><br></br>
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
