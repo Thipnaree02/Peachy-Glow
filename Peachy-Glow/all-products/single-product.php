@@ -97,6 +97,12 @@ https://templatemo.com/tm-571-hexashop
 include('connect-db.php');
 
 if (isset($_GET['p_id'])) {
+    echo "p_id ที่ได้รับ: " . $_GET['p_id'] . "<br>";
+} else {
+    echo "ไม่ได้รับค่า p_id จาก URL!<br>";
+}
+
+if (isset($_GET['p_id'])) {
     $p_id = intval($_GET['p_id']);  // รับค่า p_id จาก URL และป้องกัน SQL Injection
 
     // คำสั่ง SQL ดึงข้อมูลสินค้า
