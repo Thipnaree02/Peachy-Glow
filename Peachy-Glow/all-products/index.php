@@ -58,9 +58,9 @@ https://templatemo.com/tm-571-hexashop
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
                             <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-                            <li class="scroll-to-section"><a href="#Skincare Clear up acne">Clear up acne</a></li>
-                            <li class="scroll-to-section"><a href="#Skincare Hyperpigmentation">Hyperpigmentation</a></li>
-                            <li class="scroll-to-section"><a href="#Skincare Bright">Bright</a></li>
+                            <li class="scroll-to-section"><a href="#men">Clear up acne</a></li>
+                            <li class="scroll-to-section"><a href="#women">Hyperpigmentation</a></li>
+                            <li class="scroll-to-section"><a href="#kids">Bright</a></li>
                             <li class="submenu">
                                 <a href="javascript:;">Pages</a>
                                 <ul>
