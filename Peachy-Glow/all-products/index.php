@@ -636,7 +636,7 @@ https://templatemo.com/tm-571-hexashop
                                 <i class="fa fa-instagram"></i>
                             </a>
                         </div>
-                        <img src="assets/images/skincare02.png" alt="">
+                        <img src="assets/images/skincare10.png" alt="">
                     </div>
                 </div>
                 <div class="col-2">
