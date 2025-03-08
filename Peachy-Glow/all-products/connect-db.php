@@ -2,7 +2,7 @@
 // เชื่อมต่อฐานข้อมูล
 $servername = "localhost";
 $username = "root";
-$password = "87654321";
+$password = "";
 $dbname = "shop";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -14,6 +14,12 @@ if ($conn->connect_error) {
 
 // รับ p_id จาก URL
 $product_id = isset($_GET['p_id']) ? intval($_GET['p_id']) : 0;
+
+// ตรวจสอบว่า p_id ถูกต้องหรือไม่
+if ($product_id == 0) {
+    echo "<p>กรุณาระบุรหัสสินค้าผ่าน URL ด้วยครับ เช่น ?p_id=1</p>";
+    exit;
+}
 
 // ดึงข้อมูลสินค้าจากฐานข้อมูล
 $sql = "SELECT p_name, p_detail, p_price, p_ext FROM products WHERE p_id = ?";
@@ -44,9 +50,8 @@ if ($result->num_rows > 0) {
 
 <?php
 } else {
-    echo "<p>Product not found!</p>";
+    echo "<p>ไม่พบสินค้ารหัสนี้ในระบบ!</p>";
 }
 
 $conn->close();
 ?>
-
