@@ -3,8 +3,8 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Feb 24, 2025 at 03:14 PM
--- Server version: 10.5.26-MariaDB-0+deb11u2
+-- Generation Time: Mar 08, 2025 at 11:06 PM
+-- Server version: 10.5.28-MariaDB-0+deb11u1
 -- PHP Version: 7.4.33
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
