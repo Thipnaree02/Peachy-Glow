@@ -58,9 +58,9 @@ https://templatemo.com/tm-571-hexashop
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
                             <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-                            <li class="scroll-to-section"><a href="#Clear up acne">Clear up acne</a></li>
-                            <li class="scroll-to-section"><a href="#Hyperpigmentation">Hyperpigmentation</a></li>
-                            <li class="scroll-to-section"><a href="#Bright">Bright</a></li>
+                            <li class="scroll-to-section"><a href="#Skincare Clear up acne">Clear up acne</a></li>
+                            <li class="scroll-to-section"><a href="#Skincare Hyperpigmentation">Hyperpigmentation</a></li>
+                            <li class="scroll-to-section"><a href="#Skincare Bright">Bright</a></li>
                             <li class="submenu">
                                 <a href="javascript:;">Pages</a>
                                 <ul>
@@ -207,7 +207,7 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-6">
                     <div class="section-heading">
-                        <h2>Skincare</h2>
+                        <h2>Skincare Clear up acne</h2>
                         <span>การดูแลผิวพรรณให้สุขภาพดี ด้วยการทำความสะอาด บำรุง และปกป้องผิวจากปัจจัยต่างๆ.</span>
                     </div>
                 </div>
@@ -324,7 +324,7 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-6">
                     <div class="section-heading">
-                        <h2>Skincare</h2>
+                        <h2>Skincare Hyperpigmentation</h2>
                         <span>แสงแดด มลภาวะ และความแห้งกร้าน โดยใช้ผลิตภัณฑ์ที่เหมาะกับสภาพผิว.</span>
                     </div>
                 </div>
@@ -441,7 +441,7 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-6">
                     <div class="section-heading">
-                        <h2>Skincare</h2>
+                        <h2>Skincare Bright</h2>
                         <span>เพื่อช่วยให้ผิวแข็งแรง ชุ่มชื้น และดูอ่อนเยาว์อยู่เสมอ!.</span>
                     </div>
                 </div>
@@ -761,11 +761,10 @@ https://templatemo.com/tm-571-hexashop
                 </div>
                 <div class="col-lg-3">
                     <h4>Shopping &amp; Categories</h4>
-                    <ul class="nav">
-                        <li class="scroll-to-section"><a href="#Clear up acne">Clear up acne</a></li>
-                        <li class="scroll-to-section"><a href="#Hyperpigmentation">Hyperpigmentation</a></li>
-                        <li class="scroll-to-section"><a href="#Bright">Bright</a></li>
-                        <li class="submenu"></li>
+                    <ul>
+                        <li><a href="#">Men’s Shopping</a></li>
+                        <li><a href="#">Women’s Shopping</a></li>
+                        <li><a href="#">Kid's Shopping</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
