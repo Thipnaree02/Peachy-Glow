@@ -58,9 +58,9 @@ https://templatemo.com/tm-571-hexashop
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
                             <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
-                            <li class="scroll-to-section"><a href="#men">Clear up acne</a></li>
-                            <li class="scroll-to-section"><a href="#women">Hyperpigmentation</a></li>
-                            <li class="scroll-to-section"><a href="#kids">Bright</a></li>
+                            <li class="scroll-to-section"><a href="#Clear up acne">Clear up acne</a></li>
+                            <li class="scroll-to-section"><a href="#Hyperpigmentation">Hyperpigmentation</a></li>
+                            <li class="scroll-to-section"><a href="#Bright">Bright</a></li>
                             <li class="submenu">
                                 <a href="javascript:;">Pages</a>
                                 <ul>
@@ -762,9 +762,9 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-3">
                     <h4>Shopping &amp; Categories</h4>
                     <ul>
-                        <li><a href="#">Men’s Shopping</a></li>
-                        <li><a href="#">Women’s Shopping</a></li>
-                        <li><a href="#">Kid's Shopping</a></li>
+                        <li class="scroll-to-section"><a href="#Clear up acne">Clear up acne</a></li>
+                        <li class="scroll-to-section"><a href="#Hyperpigmentation">Hyperpigmentation</a></li>
+                        <li class="scroll-to-section"><a href="#Bright">Bright</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
