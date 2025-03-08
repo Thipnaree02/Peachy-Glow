@@ -2,7 +2,7 @@
 // เชื่อมต่อฐานข้อมูล
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "87654321";
 $dbname = "shop";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
