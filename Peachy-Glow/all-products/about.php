@@ -256,7 +256,7 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-4">
                     <div class="service-item">
                         <h4>ซื้อสกินแคร์ครบ ฿5,000</h4>
-                        <p>Gift Voucher เป็นบัตรที่ผู้ถือสามารถนำไปใช้หรือแลกซื้อสินค้าและบริการต่างๆ ของทางร้าน PeachyGlow.</p>
+                        <p>Gift Voucher เสามารถนำไปใช้หรือแลกซื้อสินค้าและบริการต่างๆ.</p>
                         <img src="assets/images/service-02.jpg" alt="">
                     </div>
                 </div>
