@@ -581,12 +581,12 @@ https://templatemo.com/tm-571-hexashop
                             </div>
                             <div class="col-lg-6">
                                 <div class="first-image">
-                                    <img src="assets/images/explore-image-01.jpg" alt="">
+                                    <img src="assets/images/skincare02.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="second-image">
-                                    <img src="assets/images/explore-image-02.jpg" alt="">
+                                    <img src="assets/images/skincare09.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -625,7 +625,7 @@ https://templatemo.com/tm-571-hexashop
                                 <i class="fa fa-instagram"></i>
                             </a>
                         </div>
-                        <img src="assets/images/instagram-01.jpg" alt="">
+                        <img src="assets/images/skincare01.png" alt="">
                     </div>
                 </div>
                 <div class="col-2">
@@ -636,7 +636,7 @@ https://templatemo.com/tm-571-hexashop
                                 <i class="fa fa-instagram"></i>
                             </a>
                         </div>
-                        <img src="assets/images/instagram-02.jpg" alt="">
+                        <img src="assets/images/skincare02.png" alt="">
                     </div>
                 </div>
                 <div class="col-2">
@@ -647,7 +647,7 @@ https://templatemo.com/tm-571-hexashop
                                 <i class="fa fa-instagram"></i>
                             </a>
                         </div>
-                        <img src="assets/images/instagram-03.jpg" alt="">
+                        <img src="assets/images/skincare03.png" alt="">
                     </div>
                 </div>
                 <div class="col-2">
@@ -658,7 +658,7 @@ https://templatemo.com/tm-571-hexashop
                                 <i class="fa fa-instagram"></i>
                             </a>
                         </div>
-                        <img src="assets/images/instagram-04.jpg" alt="">
+                        <img src="assets/images/skincare08.png" alt="">
                     </div>
                 </div>
                 <div class="col-2">
@@ -669,7 +669,7 @@ https://templatemo.com/tm-571-hexashop
                                 <i class="fa fa-instagram"></i>
                             </a>
                         </div>
-                        <img src="assets/images/instagram-05.jpg" alt="">
+                        <img src="assets/images/skincare04.png" alt="">
                     </div>
                 </div>
                 <div class="col-2">
@@ -680,7 +680,7 @@ https://templatemo.com/tm-571-hexashop
                                 <i class="fa fa-instagram"></i>
                             </a>
                         </div>
-                        <img src="assets/images/instagram-06.jpg" alt="">
+                        <img src="assets/images/skincare07.png" alt="">
                     </div>
                 </div>
             </div>
