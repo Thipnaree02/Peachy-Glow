@@ -250,21 +250,21 @@ https://templatemo.com/tm-571-hexashop
                     <div class="service-item">
                         <h4>ซื้อสกินแคร์ครบ ฿1,500</h4>
                         <p>SET สินค้าทดลองของทางร้าน PeachyGlow.</p>
-                        <img src="assets/images/service-01.jpg" alt="">
+                        <img src="assets/images/about-Set.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="service-item">
                         <h4>ซื้อสกินแคร์ครบ ฿5,000</h4>
                         <p>Gift Voucher แลกซื้อสินค้าและบริการต่างๆ.</p>
-                        <img src="assets/images/service-02.jpg" alt="">
+                        <img src="assets/images/about-Gift Voucher.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="service-item">
                         <h4>ซื้อสกินแคร์ครบ ฿9,000</h4>
                         <p>Gift Set ดูแลผิวแบบครบเครื่อง.</p>
-                        <img src="assets/images/service-03.jpg" alt="">
+                        <img src="assets/images/about-Gift Set.png" alt="">
                     </div>
                 </div>
             </div>
