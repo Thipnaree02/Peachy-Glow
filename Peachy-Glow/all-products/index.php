@@ -761,10 +761,11 @@ https://templatemo.com/tm-571-hexashop
                 </div>
                 <div class="col-lg-3">
                     <h4>Shopping &amp; Categories</h4>
-                    <ul>
+                    <ul class="nav">
                         <li class="scroll-to-section"><a href="#Clear up acne">Clear up acne</a></li>
                         <li class="scroll-to-section"><a href="#Hyperpigmentation">Hyperpigmentation</a></li>
                         <li class="scroll-to-section"><a href="#Bright">Bright</a></li>
+                        <li class="submenu"></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
