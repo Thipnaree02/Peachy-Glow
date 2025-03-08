@@ -245,9 +245,9 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="single-product1.php"><i class="fa fa-eye"></i></a></li>
+                                            <li><a href="single-product1.php"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="single-product1.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
                                     <img src="assets/images/2.png" alt="">
@@ -268,9 +268,9 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product1.php"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product1.php"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product1.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="single-product2.php"><i class="fa fa-eye"></i></a></li>
+                                            <li><a href="single-product2.php"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="single-product2.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
                                     <img src="assets/images/3.png" alt="">
@@ -291,9 +291,9 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="single-product3.php"><i class="fa fa-eye"></i></a></li>
+                                            <li><a href="single-product3.php"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="single-product3.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
                                     <img src="assets/images/4.png" alt="">
@@ -339,9 +339,9 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="single-product4.php"><i class="fa fa-eye"></i></a></li>
+                                            <li><a href="single-product4.php"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="single-product4.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
                                     <img src="assets/images/5.png" alt="">
@@ -362,9 +362,9 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="single-product5.php"><i class="fa fa-eye"></i></a></li>
+                                            <li><a href="single-product5.php"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="single-product5.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
                                     <img src="assets/images/6.png" alt="">
@@ -385,9 +385,9 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="single-product6.php"><i class="fa fa-eye"></i></a></li>
+                                            <li><a href="single-product6.php"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="single-product6.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
                                     <img src="assets/images/7.png" alt="">
@@ -408,9 +408,9 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="single-product7.php"><i class="fa fa-eye"></i></a></li>
+                                            <li><a href="single-product7.php"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="single-product7.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
                                     <img src="assets/images/8.png" alt="">
@@ -456,9 +456,9 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="single-product8.php"><i class="fa fa-eye"></i></a></li>
+                                            <li><a href="single-product8.php"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="single-product8.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
                                     <img src="assets/images/9.png" alt="">
@@ -479,9 +479,9 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="single-product9.php"><i class="fa fa-eye"></i></a></li>
+                                            <li><a href="single-product9.php"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="single-product9.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
                                     <img src="assets/images/10.png" alt="">
@@ -502,9 +502,9 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="single-product10.php"><i class="fa fa-eye"></i></a></li>
+                                            <li><a href="single-product10.php"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="single-product10.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
                                     <img src="assets/images/11.png" alt="">
@@ -525,9 +525,9 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="thumb">
                                     <div class="hover-content">
                                         <ul>
-                                            <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                            <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                            <li><a href="single-product11.php"><i class="fa fa-eye"></i></a></li>
+                                            <li><a href="single-product11.php"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="single-product11.php"><i class="fa fa-shopping-cart"></i></a></li>
                                         </ul>
                                     </div>
                                     <img src="assets/images/12.png" alt="">
