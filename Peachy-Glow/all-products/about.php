@@ -248,22 +248,22 @@ https://templatemo.com/tm-571-hexashop
                 </div>
                 <div class="col-lg-4">
                     <div class="service-item">
-                        <h4>Synther Vaporware</h4>
-                        <p>Lorem ipsum dolor sit amet, consecteturti adipiscing elit, sed do eiusmod temp incididunt ut labore, et dolore quis ipsum suspend.</p>
+                        <h4>ซื้อสกินแคร์ครบ ฿1,500</h4>
+                        <p>SET สินค้าทดลองของทางร้าน PeachyGlow.</p>
                         <img src="assets/images/service-01.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="service-item">
-                        <h4>Locavore Squidward</h4>
-                        <p>Lorem ipsum dolor sit amet, consecteturti adipiscing elit, sed do eiusmod temp incididunt ut labore, et dolore quis ipsum suspend.</p>
+                        <h4>ซื้อสกินแคร์ครบ ฿5,000</h4>
+                        <p>Gift Voucher เป็นบัตรที่ผู้ถือสามารถนำไปใช้หรือแลกซื้อสินค้าและบริการต่างๆ ของทางร้าน PeachyGlow.</p>
                         <img src="assets/images/service-02.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="service-item">
-                        <h4>Health Gothfam</h4>
-                        <p>Lorem ipsum dolor sit amet, consecteturti adipiscing elit, sed do eiusmod temp incididunt ut labore, et dolore quis ipsum suspend.</p>
+                        <h4>ซื้อสกินแคร์ครบ ฿9,000</h4>
+                        <p>Gift Set ดูแลผิวแบบครบเครื่อง.</p>
                         <img src="assets/images/service-03.jpg" alt="">
                     </div>
                 </div>
