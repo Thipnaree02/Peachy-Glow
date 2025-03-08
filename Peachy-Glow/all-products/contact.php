@@ -58,15 +58,14 @@ https://templatemo.com/tm-571-hexashop
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
                             <li class="scroll-to-section"><a href="index.php" class="active">Home</a></li>
-                            <li class="scroll-to-section"><a href="index.php">Men's</a></li>
-                            <li class="scroll-to-section"><a href="index.php">Women's</a></li>
-                            <li class="scroll-to-section"><a href="index.php">Kid's</a></li>
+                            <li class="scroll-to-section"><a href="#men">Clear up acne</a></li>
+                            <li class="scroll-to-section"><a href="#women">Hyperpigmentation</a></li>
+                            <li class="scroll-to-section"><a href="#kids">Bright</a></li>
                             <li class="submenu">
                                 <a href="javascript:;">Pages</a>
                                 <ul>
                                     <li><a href="about.php">About Us</a></li>
                                     <li><a href="products.php">Products</a></li>
-                                    <li><a href="single-product.php">Single Product</a></li>
                                     <li><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </li>
@@ -76,7 +75,7 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="#">Features Page 1</a></li>
                                     <li><a href="#">Features Page 2</a></li>
                                     <li><a href="#">Features Page 3</a></li>
-                                    <li><a rel="nofollow" href="https://templatemo.com/page/4" target="_blank">Template Page 4</a></li>
+                                    <li><a href="#">Features Page 4</a></li>
                                 </ul>
                             </li>
                             <li class="scroll-to-section"><a href="index.php">Explore</a></li>
