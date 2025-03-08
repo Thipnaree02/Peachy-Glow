@@ -312,6 +312,7 @@ https://templatemo.com/tm-571-hexashop
                         <div class="down-content">
                             <h4>Garnier Fast Bright Vitamin C & Hyaloronic</h4>
                             <span>฿499.00</span>
+                            <br>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -337,6 +338,82 @@ https://templatemo.com/tm-571-hexashop
                         <div class="down-content">
                             <h4>Garnier Bright Complete Vitamin C Water</h4>
                             <span>฿259.00</span>
+                            <br>
+                            <ul class="stars">
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="item">
+                        <div class="thumb">
+                            <div class="hover-content">
+                                <ul>
+                                    <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                </ul>
+                            </div>
+                            <img src="assets/images/10.png" alt="">
+                        </div>
+                        <div class="down-content">
+                            <h4>Glycolic Bright Instant Glowing Serum</h4>
+                            <span>฿599.00</span>
+                            <ul class="stars">
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="item">
+                        <div class="thumb">
+                            <div class="hover-content">
+                                <ul>
+                                    <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                </ul>
+                            </div>
+                            <img src="assets/images/11.png" alt="">
+                        </div>
+                        <div class="down-content">
+                            <h4>The Ordinary</h4>
+                            <span>฿245.00</span>
+                            <ul class="stars">
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="item">
+                        <div class="thumb">
+                            <div class="hover-content">
+                                <ul>
+                                    <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                </ul>
+                            </div>
+                            <img src="assets/images/12.png" alt="">
+                        </div>
+                        <div class="down-content">
+                            <h4>Roushun</h4>
+                            <span>฿120.00</span>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
