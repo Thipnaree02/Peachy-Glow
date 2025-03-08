@@ -346,9 +346,9 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-3">
                     <h4>Shopping &amp; Categories</h4>
                     <ul>
-                        <li><a href="#men">Clear up acne Shopping</a></li>
-                        <li><a href="#women">Hyperpigmentation Shopping</a></li>
-                        <li><a href="#kids">Bright Shopping</a></li>
+                        <li><a href="index.php">Clear up acne Shopping</a></li>
+                        <li><a href="index.php">Hyperpigmentation Shopping</a></li>
+                        <li><a href="index.php">Bright Shopping</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
