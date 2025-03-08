@@ -113,7 +113,7 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-6">
                     <div class="left-image">
-                        <img src="assets/images/about-left-image.jpg" alt="">
+                        <img src="assets/images/about-left.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
