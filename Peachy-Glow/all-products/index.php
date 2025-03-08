@@ -100,8 +100,8 @@ https://templatemo.com/tm-571-hexashop
                     <div class="left-content">
                         <div class="thumb">
                             <div class="inner-content">
-                                <h4>We Are Hexashop</h4>
-                                <span>Awesome, clean &amp; creative HTML5 Template</span>
+                                <h4>We Are PeachyGlow</h4>
+                                <span></span>
                                 <div class="main-border-button">
                                     <a href="#">Purchase Now!</a>
                                 </div>
@@ -117,13 +117,13 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="right-first-image">
                                     <div class="thumb">
                                         <div class="inner-content">
-                                            <h4>Women</h4>
-                                            <span>Best Clothes For Women</span>
+                                            <h4>ลดสิว</h4>
+                                            <span>เผยผิวใสไร้สิว ด้วยการดูแลอย่างอ่อนโยนและสม่ำเสมอ!</span>
                                         </div>
                                         <div class="hover-content">
                                             <div class="inner">
-                                                <h4>Women</h4>
-                                                <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
+                                                <h4>ลดสิว</h4>
+                                                <p>เผยผิวใสไร้สิว ด้วยการดูแลอย่างอ่อนโยนและสม่ำเสมอ เลือกใช้ผลิตภัณฑ์ที่เหมาะกับสภาพผิว พร้อมบำรุงและปกป้อง เพื่อผิวสุขภาพดีจากภายใน.</p>
                                                 <div class="main-border-button">
                                                     <a href="#">Discover More</a>
                                                 </div>
@@ -137,13 +137,13 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="right-first-image">
                                     <div class="thumb">
                                         <div class="inner-content">
-                                            <h4>Men</h4>
-                                            <span>Best Clothes For Men</span>
+                                            <h4>รอยดำ</h4>
+                                            <span>บอกลารอยดำ เผยผิวกระจ่างใส</span>
                                         </div>
                                         <div class="hover-content">
                                             <div class="inner">
-                                                <h4>Men</h4>
-                                                <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
+                                                <h4>รอยดำ</h4>
+                                                <p>ดูแลด้วยเซรั่มลดจุดด่างดำ พร้อมเติมความชุ่มชื้นและปกป้องผิวจากแสงแดด เพื่อผิวเนียนใสอย่างเป็นธรรมชาติ.</p>
                                                 <div class="main-border-button">
                                                     <a href="#">Discover More</a>
                                                 </div>
@@ -157,13 +157,13 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="right-first-image">
                                     <div class="thumb">
                                         <div class="inner-content">
-                                            <h4>Kids</h4>
-                                            <span>Best Clothes For Kids</span>
+                                            <h4>รอยแดง</h4>
+                                            <span>ปลอบประโลมผิว บอกลารอยแดง</span>
                                         </div>
                                         <div class="hover-content">
                                             <div class="inner">
-                                                <h4>Kids</h4>
-                                                <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
+                                                <h4>รอยแดง</h4>
+                                                <p>ใช้สกินแคร์ที่ช่วยลดการระคายเคือง เติมความชุ่มชื้น และฟื้นฟูผิวให้กลับมาแข็งแรง กระจ่างใสอย่างมั่นใจ.</p>
                                                 <div class="main-border-button">
                                                     <a href="#">Discover More</a>
                                                 </div>
@@ -177,13 +177,13 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="right-first-image">
                                     <div class="thumb">
                                         <div class="inner-content">
-                                            <h4>Accessories</h4>
-                                            <span>Best Trend Accessories</span>
+                                            <h4>กระจ่างใส</h4>
+                                            <span>เผยผิวกระจ่างใส เปล่งประกายอย่างเป็นธรรมชาติ</span>
                                         </div>
                                         <div class="hover-content">
                                             <div class="inner">
-                                                <h4>Accessories</h4>
-                                                <p>Lorem ipsum dolor sit amet, conservisii ctetur adipiscing elit incid.</p>
+                                                <h4>กระจ่างใส</h4>
+                                                <p>บำรุงด้วยวิตามินซี เติมความชุ่มชื้น และปกป้องผิวจากมลภาวะ เพื่อผิวสุขภาพดี ดูสดใสทุกวัน.</p>
                                                 <div class="main-border-button">
                                                     <a href="#">Discover More</a>
                                                 </div>
