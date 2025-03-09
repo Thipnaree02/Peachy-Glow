@@ -112,13 +112,13 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-8">
                 <div class="left-images">
-                    <img src="assets/images/product01.png" alt="">
-                    <img src="assets/images/product01-1.png" alt="">
+                    <img src="assets/images/product04.png" alt="">
+                    <img src="assets/images/product04-1.png" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="right-content">
-                    <h4>Olay Regenerist</h4>
+                    <h4>Mille</h4>
                     <span class="price">฿599.00</span>
                     <ul class="stars">
                         <li><i class="fa fa-star"></i></li>
@@ -127,9 +127,9 @@ https://templatemo.com/tm-571-hexashop
                         <li><i class="fa fa-star"></i></li>
                         <li><i class="fa fa-star"></i></li>
                     </ul>
-                    <span>ครีมบำรุงผิวช่วยลดเลือนริ้วรอย เสริมสร้างความยืดหยุ่น และกระชับผิว ด้วยสูตรที่มีเปปไทด์และไนอาซินาไมด์.</span>
+                    <span>แบรนด์เครื่องสำอางที่เน้นการแต่งหน้าแบบเบาบาง เนื้อเนียนนุ่ม ติดทนนาน และให้ลุคธรรมชาติ.</span>
                     <div class="quote">
-                        <i class="fa fa-quote-left"></i><p>ช่วยเสริมสร้างคอลลาเจน เพื่อผิวเรียบเนียน ดูอ่อนเยาว์ และกระจ่างใสอย่างเป็นธรรมชาติ.</p>
+                        <i class="fa fa-quote-left"></i><p>วิตามิน C และ คอลลาเจน ช่วยให้ผิวกระจ่างใส ลดเลือนจุดด่างดำ พร้อมบำรุงลึกเพื่อผิวเรียบเนียน สุขภาพดี.</p>
                     </div>
                     <div class="quantity-content">
                         <div class="left-content">

@@ -112,24 +112,24 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-8">
                 <div class="left-images">
-                    <img src="assets/images/product01.png" alt="">
-                    <img src="assets/images/product01-1.png" alt="">
+                    <img src="assets/images/product08.png" alt="">
+                    <img src="assets/images/product08-1.png" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="right-content">
-                    <h4>Olay Regenerist</h4>
-                    <span class="price">฿599.00</span>
-                    <ul class="stars">
+                    <h4>Garnier Fast Bright Vitamin C & Hyaloronic</h4>
+                    <span class="price">฿499.00</span>
+                    <ul class="stars"><br></br>
                         <li><i class="fa fa-star"></i></li>
                         <li><i class="fa fa-star"></i></li>
                         <li><i class="fa fa-star"></i></li>
                         <li><i class="fa fa-star"></i></li>
                         <li><i class="fa fa-star"></i></li>
                     </ul>
-                    <span>ครีมบำรุงผิวช่วยลดเลือนริ้วรอย เสริมสร้างความยืดหยุ่น และกระชับผิว ด้วยสูตรที่มีเปปไทด์และไนอาซินาไมด์.</span>
+                    <span>เซรั่มผสมวิตามิน C และไฮยาลูโรนิก ช่วยให้ผิวกระจ่างใสและชุ่มชื้น.</span>
                     <div class="quote">
-                        <i class="fa fa-quote-left"></i><p>ช่วยเสริมสร้างคอลลาเจน เพื่อผิวเรียบเนียน ดูอ่อนเยาว์ และกระจ่างใสอย่างเป็นธรรมชาติ.</p>
+                        <i class="fa fa-quote-left"></i><p>ช่วยลดเลือนจุดด่างดำและรอยคล้ำ พร้อมเติมความชุ่มชื้นให้ผิวดูเปล่งปลั่ง กระจ่างใสอย่างรวดเร็ว ผิวเนียนนุ่มและดูมีชีวิตชีวา.</p>
                     </div>
                     <div class="quantity-content">
                         <div class="left-content">
@@ -142,7 +142,7 @@ https://templatemo.com/tm-571-hexashop
                         </div>
                     </div>
                     <div class="total">
-                        <h4>Total: ฿599.00</h4>
+                        <h4>Total: ฿499.00</h4>
                         <div class="main-border-button"><a href="cart.php">Add To Cart</a></div>
                     </div>
                 </div>

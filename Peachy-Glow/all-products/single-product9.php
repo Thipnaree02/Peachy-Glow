@@ -112,24 +112,24 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-8">
                 <div class="left-images">
-                    <img src="assets/images/product01.png" alt="">
-                    <img src="assets/images/product01-1.png" alt="">
+                    <img src="assets/images/product10.png" alt="">
+                    <img src="assets/images/product10-1.png" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="right-content">
-                    <h4>Olay Regenerist</h4>
+                    <h4>Glycolic Bright Instant Glowing Serum</h4>
                     <span class="price">฿599.00</span>
-                    <ul class="stars">
+                    <ul class="stars"><br></br>
                         <li><i class="fa fa-star"></i></li>
                         <li><i class="fa fa-star"></i></li>
                         <li><i class="fa fa-star"></i></li>
                         <li><i class="fa fa-star"></i></li>
                         <li><i class="fa fa-star"></i></li>
                     </ul>
-                    <span>ครีมบำรุงผิวช่วยลดเลือนริ้วรอย เสริมสร้างความยืดหยุ่น และกระชับผิว ด้วยสูตรที่มีเปปไทด์และไนอาซินาไมด์.</span>
+                    <span>ผลิตภัณฑ์เซรั่มบำรุงผิวหน้า เพื่อผิวดูโกลว์ และกระจ่างใสขึ้น สถาบันวิจัย ลอรีอัล ปารีส คิดค้นพัฒนานวัตกรรมเพื่อผิวดูโกลว์ และกระจ่างใสขึ้นในทันที ด้วยพลัง ไกลโคลิค แอซิด ผิวดูกระจ่างใสขึ้น จุดด่างดำดูลดเลือน.</span>
                     <div class="quote">
-                        <i class="fa fa-quote-left"></i><p>ช่วยเสริมสร้างคอลลาเจน เพื่อผิวเรียบเนียน ดูอ่อนเยาว์ และกระจ่างใสอย่างเป็นธรรมชาติ.</p>
+                        <i class="fa fa-quote-left"></i><p>ผลัดเซลล์ผิวเก่าที่หมองคล้ำและกระตุ้นการสร้างเซลล์ผิวใหม่ ทำให้ผิวดูเรียบเนียน กระจ่างใสขึ้นทันที ช่วยลดเลือนจุดด่างดำและปรับสีผิวให้สม่ำเสมอ.</p>
                     </div>
                     <div class="quantity-content">
                         <div class="left-content">
