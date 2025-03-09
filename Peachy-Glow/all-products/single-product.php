@@ -1,3 +1,30 @@
+<?php
+session_start();
+
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "shop";
+
+$conn = new mysqli($servername, $username, $password, $dbname);
+
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+?>
+
+<?php
+$product_id = $_GET['id'] ?? 1;
+$sql = "SELECT id, name, price, image FROM products WHERE id = $product_id";
+$result = $conn->query($sql);
+$product = $result->fetch_assoc();
+?>
+
+<form method="post" action="cart.php">
+    <input type="hidden" name="product_id" value="<?= $product['id'] ?>">
+    <button type="submit" name="action" value="add">เพิ่มลงตะกร้า</button>
+</form>
+
 <!DOCTYPE html>
 <html lang="en">
 
