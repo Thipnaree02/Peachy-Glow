@@ -135,6 +135,16 @@ https://templatemo.com/tm-571-hexashop
                               <input name="email" type="text" id="email" placeholder="Your email" required="">
                             </fieldset>
                           </div>
+                          <div class="col-lg-6">
+                            <fieldset>
+                              <input name="b" type="date" placeholder="DD/MM/YYYY" required="">
+                            </fieldset>
+                          </div>
+                          <div class="col-lg-6">
+                            <fieldset>
+                              <input name="a" type="text" placeholder="Your phone" required="">
+                            </fieldset>
+                          </div>
                           <div class="col-lg-12">
                             <fieldset>
                               <textarea name="address" rows="6" placeholder="Your address" required=""></textarea>
@@ -146,7 +156,7 @@ https://templatemo.com/tm-571-hexashop
                                     <button class="btn btn-warning w-100" type="button">Save</button>
                                 </div>
                                 <div class="col-5 offset-1">
-                                    <button class="btn btn-danger w-100" type="button">Reset</button>
+                                    <button class="btn btn-danger w-100" type="button">Cancel</button>
                                 </div>
                             </div>
                         </div>
@@ -311,6 +321,15 @@ https://templatemo.com/tm-571-hexashop
         });
 
     </script>
+
+<?php
+if(isset($_POST['Submit'])){
+	echo @$_POST['name']."<br>";
+	echo @$_POST['a']."<br>";
+	echo @$_POST['b']."<br>";
+	
+}
+?>
 
   </body>
 
