@@ -11,7 +11,6 @@
 
     <title>Hexashop - Product Detail Page</title>
 
-
     <!-- Additional CSS Files -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 
@@ -66,7 +65,7 @@ https://templatemo.com/tm-571-hexashop
                                 <ul>
                                     <li><a href="about.php">About Us</a></li>
                                     <li><a href="products.php">Products</a></li>
-                                    <li><a href="single-product.php">Single Product</a></li>
+                                    <li><a href="cart.php">Products Cart</a></li>
                                     <li><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </li>
@@ -107,15 +106,14 @@ https://templatemo.com/tm-571-hexashop
     </div>
     <!-- ***** Main Banner Area End ***** -->
 
-
     <!-- ***** Product Area Starts ***** -->
     <section class="section" id="product">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
                 <div class="left-images">
-                    <img src="assets/images/02.png" alt="">
-                    <img src="assets/images/02.png" alt="">
+                    <img src="assets/images/product01.png" alt="">
+                    <img src="assets/images/product01-1.png" alt="">
                 </div>
             </div>
             <div class="col-lg-4">
@@ -129,9 +127,9 @@ https://templatemo.com/tm-571-hexashop
                         <li><i class="fa fa-star"></i></li>
                         <li><i class="fa fa-star"></i></li>
                     </ul>
-                    <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod kon tempor incididunt ut labore.</span>
+                    <span>ครีมบำรุงผิวช่วยลดเลือนริ้วรอย เสริมสร้างความยืดหยุ่น และกระชับผิว ด้วยสูตรที่มีเปปไทด์และไนอาซินาไมด์.</span>
                     <div class="quote">
-                        <i class="fa fa-quote-left"></i><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiuski smod.</p>
+                        <i class="fa fa-quote-left"></i><p>ช่วยเสริมสร้างคอลลาเจน เพื่อผิวเรียบเนียน ดูอ่อนเยาว์ และกระจ่างใสอย่างเป็นธรรมชาติ.</p>
                     </div>
                     <div class="quantity-content">
                         <div class="left-content">
@@ -144,8 +142,8 @@ https://templatemo.com/tm-571-hexashop
                         </div>
                     </div>
                     <div class="total">
-                        <h4>Total: $210.00</h4>
-                        <div class="main-border-button"><a href="#">Add To Cart</a></div>
+                        <h4>Total: ฿599.00</h4>
+                        <div class="main-border-button"><a href="cart.php">Add To Cart</a></div>
                     </div>
                 </div>
             </div>
