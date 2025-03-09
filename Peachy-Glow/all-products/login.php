@@ -140,10 +140,9 @@ https://templatemo.com/tm-571-hexashop
                               <textarea name="address" rows="6" placeholder="Your address" required=""></textarea>
                             </fieldset>
                           </div>
-                            <div class="mb-3">
-                                <button class="btn btn-warning w-50" type="button">Save</button>
-                                <button class="btn btn-danger w-50" type="button">Reset</button>
-                          </div>
+                          <div class="mb-3 d-flex justify-content-between">
+                            <button class="btn btn-warning w-50 me-2" type="button">Save</button>
+                            <button class="btn btn-danger w-50" type="button">Reset</button>
                         </div>
                       </form>
                 </div>
