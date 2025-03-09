@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Hexashop - About Page</title>
+    <title>Hexashop - Contact Page</title>
 
 
     <!-- Additional CSS Files -->
@@ -70,14 +70,17 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </li>
+                            <li class="submenu">
+                            </li>
                             <li class="scroll-to-section"><a href="index.php">Explore</a></li>
                             <form class="form-inline my-2 my-lg-0">
                      <div class="login_bt">
                         <ul>
-                           <li><a href="login.php"><span class="user_icon"><i class="fa fa-user" aria-hidden="true"></i></span>Login</a></li>
+                           <li><a href="#"><span class="user_icon"><i class="fa fa-user" aria-hidden="true"></i></span>Login</a></li>
                         </ul>
                      </div>
-                  </form>       
+                  </form>
+                        </ul>        
                         <a class='menu-trigger'>
                             <span>Menu</span>
                         </a>
@@ -95,8 +98,8 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-12">
                     <div class="inner-content">
-                        <h2>About Our Company</h2>
-                        <span>ยินดีตอนรับสู่บริษัท PeachyGlow จำกัด</span>
+                        <h2>Apply for membership PeachyGlow!</h2>
+                        <span></span>
                     </div>
                 </div>
             </div>
@@ -104,170 +107,51 @@ https://templatemo.com/tm-571-hexashop
     </div>
     <!-- ***** Main Banner Area End ***** -->
 
-    <!-- ***** About Area Starts ***** -->
-    <div class="about-us">
+    <!-- ***** Contact Area Starts ***** -->
+    <div class="contact-us">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="left-image">
-                        <img src="assets/images/about-left.jpg" alt="">
+                    <div id="map">
+                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3830.4576788328063!2d103.24503407490816!3d16.24829708445751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3122a39997b0ef51%3A0x846e64234611352e!2z4LiE4LiT4Liw4LiB4Liy4Lij4Lia4Lix4LiN4LiK4Li14LmB4Lil4Liw4LiB4Liy4Lij4LiI4Lix4LiU4LiB4Liy4LijIOC4oeC4q-C4suC4p-C4tOC4l-C4ouC4suC4peC4seC4ouC4oeC4q-C4suC4quC4suC4o-C4hOC4suC4oQ!5e0!3m2!1sth!2sth!4v1741361295571!5m2!1sth!2sth" width="100%" height="400px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                      <!-- You can simply copy and paste "Embed a map" code from Google Maps for any location. -->
+                      
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="right-content">
-                        <h4>About Us &amp; Our Skills</h4>
-                        <span>แบรนด์สกินแคร์ที่มุ่งมั่นในการมอบผลิตภัณฑ์คุณภาพสูงที่ช่วยดูแลและฟื้นฟูผิวพรรณให้สุขภาพดีอย่างยั่งยืน ด้วยการคัดสรรส่วนผสมจากธรรมชาติและเทคโนโลยีการผลิตที่ทันสมัย.</span>
-                        <div class="quote">
-                            <i class="fa fa-quote-left"></i><p>เพื่อดูแลและฟื้นฟูผิวพรรณให้ดูสุขภาพดี กระจ่างใส และมีความชุ่มชื้นอย่างยั่งยืน โดยมีเป้าหมายในการช่วยให้ผู้ใช้ทุกคนสามารถมีผิวที่เนียนนุ่ม.</p>
-                        </div>
-                        <p>ราออกแบบผลิตภัณฑ์เพื่อทุกสภาพผิว พร้อมตอบโจทย์ปัญหาผิวต่าง ๆ ไม่ว่าจะเป็นสิว รอยดำ ริ้วรอย หรือผิวหมองคล้ำ เป้าหมายของเราคือการช่วยให้ทุกคนมีผิวที่เนียนนุ่ม กระจ่างใส และมั่นใจในทุกวัน ด้วยความเชื่อในคุณค่าแห่งการดูแลตัวเองอย่างแท้จริง.</p>
-                        <ul>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                        </ul>
+                    <div class="section-heading">
+                        <h2>Say Hello. Apply for membership PeachyGlow!</h2>
+                        <span>ยินดีต้อนรับลูกค้าทุกท่านสู่การสมัครสมาชิกของร้าน PeachyGlow.</span>
                     </div>
+                    <form id="contact" action="" method="post">
+                        <div class="row">
+                          <div class="col-lg-6">
+                            <fieldset>
+                              <input name="name" type="text" id="name" placeholder="Your name" required="">
+                            </fieldset>
+                          </div>
+                          <div class="col-lg-6">
+                            <fieldset>
+                              <input name="email" type="text" id="email" placeholder="Your email" required="">
+                            </fieldset>
+                          </div>
+                          <div class="col-lg-12">
+                            <fieldset>
+                              <textarea name="address" rows="6" placeholder="Your address" required=""></textarea>
+                            </fieldset>
+                          </div>
+                          <div class="col-lg-12">
+                            <fieldset>
+                            <button class="btn btn-warning" type="button">Save</button>
+                            <button class="btn btn-dark" type="button">Reset</button>
+                          </div>
+                        </div>
+                      </form>
                 </div>
             </div>
         </div>
     </div>
-    <!-- ***** About Area Ends ***** -->
-
-    <!-- ***** Our Team Area Starts ***** -->
-    <section class="our-team">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-heading">
-                        <h2>Our Amazing Team</h2>
-                        <span>Details to details is what makes PeachyGlow different from the other themes.</span>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="team-item">
-                        <div class="thumb">
-                            <div class="hover-effect">
-                                <div class="inner-content">
-                                    <ul>
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <img src="assets/images/member01.jpg">
-                        </div>
-                        <div class="down-content">
-                            <h4>นางสาว ทิพย์นารี เพตาเสน</h4>
-                            <span>65010914602</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="team-item">
-                        <div class="thumb">
-                            <div class="hover-effect">
-                                <div class="inner-content">
-                                    <ul>
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <img src="assets/images/member02.jpg">
-                        </div>
-                        <div class="down-content">
-                            <h4>นาย ภาคภูมิ นวะสิมัยนาม</h4>
-                            <span>65010914606</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="team-item">
-                        <div class="thumb">
-                            <div class="hover-effect">
-                                <div class="inner-content">
-                                    <ul>
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <img src="assets/images/member03.jpg">
-                        </div>
-                        <div class="down-content">
-                            <h4>นางสาว จุฑามาศ พรมวงศ์</h4>
-                            <span>65010914608</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="team-item">
-                        <div class="thumb">
-                            <div class="hover-effect">
-                                <div class="inner-content">
-                                    <ul>
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <img src="assets/images/member04.jpg">
-                        </div>
-                        <div class="down-content">
-                            <h4>นาย ชวิน อนุสุริยา</h4>
-                            <span>65010914626</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ***** Our Team Area Ends ***** -->
-
-    <!-- ***** Services Area Starts ***** -->
-    <section class="our-services">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-heading">
-                        <h2>Our Services</h2>
-                        <span>Details to details is what makes PeachyGlow different from the other themes.</span>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="service-item">
-                        <h4>ซื้อสกินแคร์ครบ ฿1,500</h4>
-                        <p>SET สินค้าทดลองของทางร้าน PeachyGlow.</p>
-                        <img src="assets/images/about-Set.png" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="service-item">
-                        <h4>ซื้อสกินแคร์ครบ ฿5,000</h4>
-                        <p>Gift Voucher แลกซื้อสินค้าและบริการต่างๆ.</p>
-                        <img src="assets/images/about-Gift Voucher.png" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="service-item">
-                        <h4>ซื้อสกินแคร์ครบ ฿9,000</h4>
-                        <p>Gift Set ดูแลผิวแบบครบเครื่อง.</p>
-                        <img src="assets/images/about-Gift Set.png" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ***** Services Area Ends ***** -->
+    <!-- ***** Contact Area Ends ***** -->
 
     <!-- ***** Subscribe Area Starts ***** -->
     <div class="subscribe">
@@ -310,7 +194,7 @@ https://templatemo.com/tm-571-hexashop
                         <div class="col-6">
                             <ul>
                                 <li>Work Hours:<br><span>09:30 AM - 9:30 PM Daily</span></li>
-                                <li>Email:<br><span>peachyglow@company.com</span></li>
+                                <li>Email:<br><span>ipeachyglow@company.com</span></li>
                                 <li>Social Media:<br><span><a href="#">Facebook</a>, <a href="#">Instagram</a>, <a href="#">Behance</a>, <a href="#">Linkedin</a></span></li>
                             </ul>
                         </div>
