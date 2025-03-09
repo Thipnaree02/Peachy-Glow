@@ -141,7 +141,6 @@ https://templatemo.com/tm-571-hexashop
                             </fieldset>
                           </div>
                           <div class="mb-3">
-                            <fieldset>
                             <button class="btn btn-warning" type="button">Save</button>
                             <button class="btn btn-dark" type="button">Reset</button>
                           </div>
