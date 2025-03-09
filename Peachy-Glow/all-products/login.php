@@ -129,21 +129,21 @@ https://templatemo.com/tm-571-hexashop
                             <fieldset>
                               <input name="name" type="text" id="name" placeholder="Your name" required="">
                             </fieldset>
-                          </div>
+                          </div><br></br>
                           <div class="col-lg-6">
                             <fieldset>
                               <input name="email" type="text" id="email" placeholder="Your email" required="">
                             </fieldset>
-                          </div>
+                          </div><br></br>
                           <div class="col-lg-6">
                             <fieldset>
                               <input name="b" type="date" placeholder="DD/MM/YYYY" required="">
                             </fieldset>
-                          </div><br></br>
+                          </div>
                           <div class="col-lg-6">
                             <fieldset>
                               <input name="a" type="text" placeholder="Your phone" required="">
-                            </fieldset><br></br>
+                            </fieldset>
                           </div>
                           <div class="col-lg-12">
                             <fieldset>
