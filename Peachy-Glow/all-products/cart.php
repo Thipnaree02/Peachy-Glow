@@ -1,6 +1,10 @@
 <?php
 session_start();
 
+// เปิด error reporting
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
 // เชื่อมต่อฐานข้อมูล
 $servername = "localhost";
 $username = "root";
@@ -11,6 +15,14 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
+}
+
+// ดึงข้อมูลสินค้า
+$sql = "SELECT id, name, price, image FROM products";
+$result = $conn->query($sql);
+
+if ($result === false) {
+    die("เกิดข้อผิดพลาดในการดึงข้อมูล: " . $conn->error);
 }
 ?>
 
@@ -28,6 +40,15 @@ if ($conn->connect_error) {
     </nav>
 
     <h1>รายการสินค้า</h1>
+    
+    <?php
+    if ($result->num_rows > 0) {
+        echo "พบ " . $result->num_rows . " รายการ";
+    } else {
+        echo "ไม่พบสินค้าในฐานข้อมูล";
+    }
+    ?>
+
     <div>
         <?php while ($row = $result->fetch_assoc()) : ?>
             <div>
