@@ -139,11 +139,11 @@ https://templatemo.com/tm-571-hexashop
                             <fieldset>
                               <input name="b" type="date" placeholder="DD/MM/YYYY" required="">
                             </fieldset>
-                          </div>
+                          </div><br></br>
                           <div class="col-lg-6">
                             <fieldset>
                               <input name="a" type="text" placeholder="Your phone" required="">
-                            </fieldset>
+                            </fieldset><br></br>
                           </div>
                           <div class="col-lg-12">
                             <fieldset>
