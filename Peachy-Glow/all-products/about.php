@@ -71,11 +71,13 @@ https://templatemo.com/tm-571-hexashop
                                 </ul>
                             </li>
                             <li class="scroll-to-section"><a href="index.php">Explore</a></li>
-                        </ul>
-                            <div class="login_bt">
+                            <form class="form-inline my-2 my-lg-0">
+                     <div class="login_bt">
                         <ul>
-                            <li><a href="#"><span class="user_icon"><i class="fa fa-user" aria-hidden="true"></i></span>Login</a></li>
-                        </ul>        
+                           <li><a href="#"><span class="user_icon"><i class="fa fa-user" aria-hidden="true"></i></span>Login</a></li>
+                        </ul>
+                     </div>
+                  </form>       
                         <a class='menu-trigger'>
                             <span>Menu</span>
                         </a>
