@@ -348,11 +348,11 @@ https://templatemo.com/tm-571-hexashop
                 </div>
                 <div class="col-lg-12">
                     <div class="pagination">
-                        <ul>
-                            <li class="active">
+                        <ul> 
+                            <li>
                                 <a href="features Page 1.php">1</a>
                             </li>
-                            <li>
+                            <li class="active">
                                 <a href="features Page 2.php">2</a>
                             </li>
                             <li>

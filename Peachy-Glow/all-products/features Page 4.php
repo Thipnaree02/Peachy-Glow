@@ -358,7 +358,7 @@ https://templatemo.com/tm-571-hexashop
                             <li>
                                 <a href="features Page 3.php">3</a>
                             </li>
-                            <li>
+                            <li< class="active">
                                 <a href="features Page 4.php">4</a>
                             </li>
                             <li>
