@@ -355,10 +355,11 @@ https://templatemo.com/tm-571-hexashop
                             <li>
                                 <a href="features Page 2.php">2</a>
                             </li>
+                            
                             <li>
                                 <a href="features Page 3.php">3</a>
                             </li>
-                            <li< class="active">
+                            <liclass="active">
                                 <a href="features Page 4.php">4</a>
                             </li>
                             <li>
