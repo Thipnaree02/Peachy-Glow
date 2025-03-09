@@ -151,9 +151,9 @@ https://templatemo.com/tm-571-hexashop
                         <div class="thumb">
                             <div class="hover-content">
                                 <ul>
-                                    <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                    <li><a href="single-product1.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product1.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product1.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
                             <img src="assets/images/2.png" alt="">
@@ -176,9 +176,9 @@ https://templatemo.com/tm-571-hexashop
                         <div class="thumb">
                             <div class="hover-content">
                                 <ul>
-                                    <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                    <li><a href="single-product2.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product2.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product2.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
                             <img src="assets/images/3.png" alt="">
@@ -201,9 +201,9 @@ https://templatemo.com/tm-571-hexashop
                         <div class="thumb">
                             <div class="hover-content">
                                 <ul>
-                                    <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                    <li><a href="single-product3.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product3.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product3.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
                             <img src="assets/images/4.png" alt="">
@@ -226,9 +226,9 @@ https://templatemo.com/tm-571-hexashop
                         <div class="thumb">
                             <div class="hover-content">
                                 <ul>
-                                    <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                    <li><a href="single-product4.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product4.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product4.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
                             <img src="assets/images/5.png" alt="">
@@ -251,9 +251,9 @@ https://templatemo.com/tm-571-hexashop
                         <div class="thumb">
                             <div class="hover-content">
                                 <ul>
-                                    <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                    <li><a href="single-product5.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product5.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product5.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
                             <img src="assets/images/6.png" alt="">
@@ -276,9 +276,9 @@ https://templatemo.com/tm-571-hexashop
                         <div class="thumb">
                             <div class="hover-content">
                                 <ul>
-                                    <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                    <li><a href="single-product6.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product6.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product6.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
                             <img src="assets/images/7.png" alt="">
@@ -301,9 +301,9 @@ https://templatemo.com/tm-571-hexashop
                         <div class="thumb">
                             <div class="hover-content">
                                 <ul>
-                                    <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                    <li><a href="single-product7.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product7.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product7.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
                             <img src="assets/images/8.png" alt="">
@@ -311,6 +311,82 @@ https://templatemo.com/tm-571-hexashop
                         <div class="down-content">
                             <h4>Garnier Fast Bright Vitamin C & Hyaloronic</h4>
                             <span>฿499.00</span>
+                            <br>
+                            <ul class="stars"><br></br>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="item">
+                        <div class="thumb">
+                            <div class="hover-content">
+                                <ul>
+                                    <li><a href="single-product8.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product8.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product8.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                </ul>
+                            </div>
+                            <img src="assets/images/9.png" alt="">
+                        </div>
+                        <div class="down-content">
+                            <h4>Garnier Bright Complete Vitamin C Water</h4>
+                            <span>฿259.00</span>
+                            <ul class="stars"><br></br>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="item">
+                        <div class="thumb">
+                            <div class="hover-content">
+                                <ul>
+                                    <li><a href="single-product9.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product9.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product9.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                </ul>
+                            </div>
+                            <img src="assets/images/10.png" alt="">
+                        </div>
+                        <div class="down-content">
+                            <h4>Glycolic Bright Instant Glowing Serum</h4>
+                            <span>฿599.00</span>
+                            <ul class="stars"><br></br>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                                <li><i class="fa fa-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="item">
+                        <div class="thumb">
+                            <div class="hover-content">
+                                <ul>
+                                    <li><a href="single-product10.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product10.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product10.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                </ul>
+                            </div>
+                            <img src="assets/images/11.png" alt="">
+                        </div>
+                        <div class="down-content">
+                            <h4>The Ordinary</h4>
+                            <span>฿245.00</span>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -326,16 +402,16 @@ https://templatemo.com/tm-571-hexashop
                         <div class="thumb">
                             <div class="hover-content">
                                 <ul>
-                                    <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
+                                    <li><a href="single-product11.php"><i class="fa fa-eye"></i></a></li>
+                                    <li><a href="single-product11.php"><i class="fa fa-star"></i></a></li>
+                                    <li><a href="single-product11.php"><i class="fa fa-shopping-cart"></i></a></li>
                                 </ul>
                             </div>
-                            <img src="assets/images/9.png" alt="">
+                            <img src="assets/images/12.png" alt="">
                         </div>
                         <div class="down-content">
-                            <h4>Garnier Bright Complete Vitamin C Water</h4>
-                            <span>฿259.00</span>
+                            <h4>Roushun</h4>
+                            <span>฿120.00</span>
                             <ul class="stars">
                                 <li><i class="fa fa-star"></i></li>
                                 <li><i class="fa fa-star"></i></li>
@@ -355,7 +431,6 @@ https://templatemo.com/tm-571-hexashop
                             <li>
                                 <a href="features Page 2.php">2</a>
                             </li>
-                            
                             <li class="active">
                                 <a href="features Page 3.php">3</a>
                             </li>
@@ -383,9 +458,12 @@ https://templatemo.com/tm-571-hexashop
                             <img src="assets/images/white-logo.png" alt="hexashop ecommerce templatemo">
                         </div>
                         <ul>
-                            <li><a href="#">16501 Collins Ave, Sunny Isles Beach, FL 33160, United States</a></li>
-                            <li><a href="#">hexashop@company.com</a></li>
-                            <li><a href="#">010-020-0340</a></li>
+                            <li><a href="#">Faculty of Accounting and Management, Mahasarakham University, Khamriang Subdistrict, Kantharawichai District, Maha Sarakham 44150, Thailand</a></li>
+                            <li><a href="#">65010914602@msu.ac.th<br>
+                                            65010914606@msu.ac.th<br>
+                                            65010914608@msu.ac.th<br>
+                                            65010914626@msu.ac.th</a></li>
+                            <li><a href="#">043-754-321</a></li>
                         </ul>
                     </div>
                 </div>
