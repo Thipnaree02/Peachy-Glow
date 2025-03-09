@@ -1,7 +1,3 @@
-<?php 
-  require_once "connect/connectdb.php";
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
