@@ -70,16 +70,11 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </li>
-                            <li class="submenu">
-                                <a href="javascript:;">Features</a>
-                                <ul>
-                                    <li><a href="#">Features Page 1</a></li>
-                                    <li><a href="#">Features Page 2</a></li>
-                                    <li><a href="#">Features Page 3</a></li>
-                                    <li><a href="#">Features Page 4</a></li>
-                                </ul>
-                            </li>
                             <li class="scroll-to-section"><a href="index.php">Explore</a></li>
+                        </ul>
+                            <div class="login_bt">
+                        <ul>
+                            <li><a href="#"><span class="user_icon"><i class="fa fa-user" aria-hidden="true"></i></span>Login</a></li>
                         </ul>        
                         <a class='menu-trigger'>
                             <span>Menu</span>
