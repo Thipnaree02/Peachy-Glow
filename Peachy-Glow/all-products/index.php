@@ -78,7 +78,6 @@ https://templatemo.com/tm-571-hexashop
                                 <ul>
                                     <li><a href="login.php"></span>Login</a></li>
                                 </ul>
-                                </div>
                             </form>
                                     </ul>        
                                     <a class='menu-trigger'>
