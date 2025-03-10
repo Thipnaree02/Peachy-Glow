@@ -17,7 +17,7 @@
 // }
 else{
 
-	include("confiG/config.php");
+	include("connect/connect.php");
 	$sql = "select * from product where p_id='{$_GET['id']}' ";
 	$rs = mysqli_query($conn, $sql) ;
 	$data = mysqli_fetch_array($rs);
@@ -48,6 +48,7 @@ else{
 	// } 
 ?>
 
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -58,13 +59,8 @@ else{
     <meta name="description" content="">
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
-        <!-- Site Icons -->
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-
-    <title>PeachyGlow - Contact Page</title>
+    <title>PeachyGlow - About Page</title>
 
 
     <!-- Additional CSS Files -->
@@ -134,8 +130,7 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="login.php"></span>Login</a></li>
                                     <li><a href="login.php"></span>Logout</a></li>
                                 </ul>
-                  </form>
-                        </ul>        
+                  </form>       
                         <a class='menu-trigger'>
                             <span>Menu</span>
                         </a>
@@ -147,24 +142,10 @@ https://templatemo.com/tm-571-hexashop
     </header>
     <!-- ***** Header Area End ***** -->
 
-    <!-- ***** Main Banner Area Start ***** -->
-    <div class="page-heading about-page-heading" id="top">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="inner-content">
-                        <h2>Products Cart!</h2>
-                        <span></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ***** Main Banner Area End ***** -->
+        
 
-
-     <!-- Cart Items -->
-     <div class="container cart">
+    <!-- Cart Items -->
+    <div class="container cart">
       <table>
         <tr>
           <th>No.</th>
@@ -351,18 +332,18 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-3">
                     <h4>Shopping &amp; Categories</h4>
                     <ul>
-                        <li><a href="#">Men’s Shopping</a></li>
-                        <li><a href="#">Women’s Shopping</a></li>
-                        <li><a href="#">Kid's Shopping</a></li>
+                        <li><a href="index.php">Clear up acne Shopping</a></li>
+                        <li><a href="index.php">Hyperpigmentation Shopping</a></li>
+                        <li><a href="index.php">Bright Shopping</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
                     <h4>Useful Links</h4>
                     <ul>
                         <li><a href="#">Homepage</a></li>
-                        <li><a href="#">About Us</a></li>
+                        <li><a href="about.php">About Us</a></li>
                         <li><a href="#">Help</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">

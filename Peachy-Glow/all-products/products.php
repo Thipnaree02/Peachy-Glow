@@ -91,361 +91,131 @@ https://templatemo.com/tm-571-hexashop
     </header>
     <!-- ***** Header Area End ***** -->
 
-    <!-- ***** Main Banner Area Start ***** -->
-    <div class="page-heading" id="top">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="inner-content">
-                        <h2>Check Our Products</h2>
-                        <span>Awesome &amp; Creative HTML CSS layout by TemplateMo</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- ***** Main Banner Area End ***** -->
+    <a href="cart.php">
+          <i class='bx bx-cart' id="cart-icon"></i>
+        </a>
+        <!-- =====CART JAVASCRIPT===== -->
+      <!-- <div class="cart">
+        <h2 class="cart-title">Your Cart</h2> -->
 
-    <!-- ***** Products Area Starts ***** -->
-    <section class="section" id="products">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-heading">
-                        <h2>Our Latest Products</h2>
-                        <span>Check out all of our products.</span>
-                    </div>
-                </div>
-            </div>
+        <!--=== CONTENT ===== -->
+        <!-- <div class="cart-content"> -->
+        
+
+        <!-- </div> -->
+
+        <!--===== TOTAL   ===============-->
+        <!-- <div class="total">
+            <div class="total-title">Total:</div>
+            <div class="total-price-cart">$0</div>
+        </div> -->
+        <!--========= BUY BUTTON  ==================-->
+        <!-- <a href="cart.php"> -->
+        <!-- <button type="button" class="btn-buy">Buy Now</button> -->
+        <!-- </a> -->
+        
+        <!-- ========CART CLOSE =============== -->
+        <!-- <i class='bx bx-x' id="cart-close"></i> -->
+    <!-- </div> -->
+
+      </div>
+    </div>
+
+
+          <!--//////////////////// TOP ITEMS /////////////////////////////-->
+
+    <div class="wrapper-search">
+      <!--//////////////////// CATEGORY ITEAMS /////////////////////////////-->
+      <div id="buttons">
+        <button class="button-value" onclick="filterProduct('all')">All</button>
+        <button class="button-value" onclick="filterProduct('2')">
+          Body
+        </button>
+        <button class="button-value" onclick="filterProduct('1')">
+          Face
+        </button>
+        <button class="button-value" onclick="filterProduct('3')">
+          Hair
+        </button>
+        <button class="button-value" onclick="filterProduct('4')">
+          Perfume
+        </button>
+      </div>
+      <!--//////////////////// Search button /////////////////////////////-->
+      <div id="search-container">
+        <input
+          type="search"
+          id="search-input"
+          placeholder="Search product name here.."
+        />
+        <button id="search">Search</button>
+      </div>
+      
+    </div>
+    
+    
+    <!-- All Products -->
+    <section class="section all-products" id="products">
+      <div class="top container">
+        <h1>Our Products</h1>
+        <form>
+          <select id="selector">
+            <option value="1">Defualt Sorting</option>
+            <option value="2">Sort By High Price</option>
+            <option value="3">Sort By Low Price</option>
+          </select>
+          <span><i class="bx bx-chevron-down"></i></span>
+        </form>
+      </div>
+      <div class="product-center container" id="productContainer">
+
+      <?php
+        
+        $kw = @$_POST['kw'];
+
+        $sql = "SELECT * FROM `product` WHERE `p_name` like '%{$kw}%' OR `p_detail` like '%{$kw}%'";
+        $rs = mysqli_query ($conn, $sql);
+        while ($data = mysqli_fetch_array($rs)) {
+
+            ?>
+
+        <div class="product-item" data-category="<?=$data['cat_id']?>">
+          <div class="overlay">
+          <?php
+              $p = $data['p_id'].".".$data['p_ext'];
+          ?>
+            <a href="productDetails.php?pid=<?=$data['p_id'];?>" class="product-thumb">
+              <img  src="../imgs_product/<?=$p;?>" alt="" id="product-img"  />
+            </a>
+            <span class="discount">20%</span>
+          </div>
+          <div class="product-info">
+            <span><?=$data['p_brand']?></span>
+            <a id="product-title" href="productDetails.php?pid=<?=$data['p_id'];?>"><?=$data['p_name']?> </a>
+            <h4 id="product-price">$<?=$data['p_price']?>.00</h4>
+          </div>
+          <ul class="icons">
+            <li><a href="cart.php?id=<?=$data['p_id'];?>"><i class="bx bx-cart add-cart"></a></i></li>
+          </ul>
         </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="item">
-                        <div class="thumb">
-                            <div class="hover-content">
-                                <ul>
-                                    <li><a href="single-product.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product.php"><i class="fa fa-shopping-cart"></i></a></li>
-                                </ul>
-                            </div>
-                            <img src="assets/images/1.png" alt="">
-                        </div>
-                        <div class="down-content">
-                            <h4>Olay Regenerist</h4>
-                            <span>฿599.00</span>
-                            <ul class="stars">
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <div class="thumb">
-                            <div class="hover-content">
-                                <ul>
-                                    <li><a href="single-product1.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product1.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product1.php"><i class="fa fa-shopping-cart"></i></a></li>
-                                </ul>
-                            </div>
-                            <img src="assets/images/2.png" alt="">
-                        </div>
-                        <div class="down-content">
-                            <h4>Hada Labo</h4>
-                            <span>฿520.00</span>
-                            <ul class="stars">
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <div class="thumb">
-                            <div class="hover-content">
-                                <ul>
-                                    <li><a href="single-product2.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product2.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product2.php"><i class="fa fa-shopping-cart"></i></a></li>
-                                </ul>
-                            </div>
-                            <img src="assets/images/3.png" alt="">
-                        </div>
-                        <div class="down-content">
-                            <h4>Anessa</h4>
-                            <span>฿775.00</span>
-                            <ul class="stars">
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <div class="thumb">
-                            <div class="hover-content">
-                                <ul>
-                                    <li><a href="single-product3.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product3.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product3.php"><i class="fa fa-shopping-cart"></i></a></li>
-                                </ul>
-                            </div>
-                            <img src="assets/images/4.png" alt="">
-                        </div>
-                        <div class="down-content">
-                            <h4>Mille</h4>
-                            <span>฿599.00</span>
-                            <ul class="stars">
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <div class="thumb">
-                            <div class="hover-content">
-                                <ul>
-                                    <li><a href="single-product4.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product4.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product4.php"><i class="fa fa-shopping-cart"></i></a></li>
-                                </ul>
-                            </div>
-                            <img src="assets/images/5.png" alt="">
-                        </div>
-                        <div class="down-content">
-                            <h4>Bio-Oil</h4>
-                            <span>฿620.00</span>
-                            <ul class="stars">
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <div class="thumb">
-                            <div class="hover-content">
-                                <ul>
-                                    <li><a href="single-product5.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product5.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product5.php"><i class="fa fa-shopping-cart"></i></a></li>
-                                </ul>
-                            </div>
-                            <img src="assets/images/6.png" alt="">
-                        </div>
-                        <div class="down-content">
-                            <h4>Ormedic</h4>
-                            <span>฿229.00</span>
-                            <ul class="stars">
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <div class="thumb">
-                            <div class="hover-content">
-                                <ul>
-                                    <li><a href="single-product6.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product6.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product6.php"><i class="fa fa-shopping-cart"></i></a></li>
-                                </ul>
-                            </div>
-                            <img src="assets/images/7.png" alt="">
-                        </div>
-                        <div class="down-content">
-                            <h4>Eucerin Hyaluron</h4>
-                            <span>฿675.00</span>
-                            <ul class="stars">
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <div class="thumb">
-                            <div class="hover-content">
-                                <ul>
-                                    <li><a href="single-product7.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product7.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product7.php"><i class="fa fa-shopping-cart"></i></a></li>
-                                </ul>
-                            </div>
-                            <img src="assets/images/8.png" alt="">
-                        </div>
-                        <div class="down-content">
-                            <h4>Garnier Fast Bright Vitamin C & Hyaloronic</h4>
-                            <span>฿499.00</span>
-                            <br>
-                            <ul class="stars"><br></br>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <div class="thumb">
-                            <div class="hover-content">
-                                <ul>
-                                    <li><a href="single-product8.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product8.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product8.php"><i class="fa fa-shopping-cart"></i></a></li>
-                                </ul>
-                            </div>
-                            <img src="assets/images/9.png" alt="">
-                        </div>
-                        <div class="down-content">
-                            <h4>Garnier Bright Complete Vitamin C Water</h4>
-                            <span>฿259.00</span>
-                            <ul class="stars"><br></br>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <div class="thumb">
-                            <div class="hover-content">
-                                <ul>
-                                    <li><a href="single-product9.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product9.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product9.php"><i class="fa fa-shopping-cart"></i></a></li>
-                                </ul>
-                            </div>
-                            <img src="assets/images/10.png" alt="">
-                        </div>
-                        <div class="down-content">
-                            <h4>Glycolic Bright Instant Glowing Serum</h4>
-                            <span>฿599.00</span>
-                            <ul class="stars"><br></br>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <div class="thumb">
-                            <div class="hover-content">
-                                <ul>
-                                    <li><a href="single-product10.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product10.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product10.php"><i class="fa fa-shopping-cart"></i></a></li>
-                                </ul>
-                            </div>
-                            <img src="assets/images/11.png" alt="">
-                        </div>
-                        <div class="down-content">
-                            <h4>The Ordinary</h4>
-                            <span>฿245.00</span>
-                            <ul class="stars">
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="item">
-                        <div class="thumb">
-                            <div class="hover-content">
-                                <ul>
-                                    <li><a href="single-product11.php"><i class="fa fa-eye"></i></a></li>
-                                    <li><a href="single-product11.php"><i class="fa fa-star"></i></a></li>
-                                    <li><a href="single-product11.php"><i class="fa fa-shopping-cart"></i></a></li>
-                                </ul>
-                            </div>
-                            <img src="assets/images/12.png" alt="">
-                        </div>
-                        <div class="down-content">
-                            <h4>Roushun</h4>
-                            <span>฿120.00</span>
-                            <ul class="stars">
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                                <li><i class="fa fa-star"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="pagination">
-                        <ul>
-                            <li>
-                                <a href="features Page 1.php">1</a>
-                            </li>
-                            <li>
-                                <a href="features Page 2.php">2</a>
-                            </li>
-                            <li>
-                                <a href="features Page 3.php">3</a>
-                            </li>
-                            <li>
-                                <a href="features Page 4.php">4</a>
-                            </li>
-                            <li>
-                                <a href="#">></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
+
+
+        <?php
+          }
+        ?> 
+       
     </section>
-    <!-- ***** Products Area Ends ***** -->
+    <section class="pagination">
+      <div class="container">
+        <a href="../all-products/product.php">
+        <div id="buttons">
+        <button class="button-value">Back to Top</button>
+        </div>
+        </a>
+        <!-- <span>1</span> <span>2</span> <span>3</span> <span>4</span><span>5</span><span>6</span><span>7</span>
+        <span><i class="bx bx-right-arrow-alt"></i></span> -->
+      </div>
+    </section>
     
     <!-- ***** Footer Start ***** -->
     <footer>
