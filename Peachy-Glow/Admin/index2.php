@@ -13,7 +13,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>TheMOON Admin </title>
+    <title>Peachy Glow Admin </title>
     <meta name="description" content="TheMOON Admin">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -305,7 +305,7 @@
                                 <img class="align-self-center rounded-circle mr-3" style="width:85px; height:85px;" alt="" src="images/admin.jpeg">
                             </a>
                             <div class="media-body">
-                                <h2 class="text-white display-6">Reaksa Yi</h2>
+                                <h2 class="text-white display-6">Chawin Anusuriya</h2>
                                 <p class="text-light">Project Manager</p>
                             </div>
                         </div>
