@@ -328,12 +328,12 @@ https://templatemo.com/tm-571-hexashop
                                 </div>
                                 <div class="d-flex">
                                     <div class="down-content">Product</div>
-                                    <div class="ml-auto font-weight-bold">Total</div>
+                                    <div class="ml-auto down-content">Total</div>
                                 </div>
                                 <hr class="my-1">
                                 <div class="d-flex">
                                     <h4>Sub Total</h4>
-                                    <div class="ml-auto font-weight-bold"> $ 440 </div>
+                                    <div class="ml-auto down-content"> $ 440 </div>
                                 </div>
                                 <div class="d-flex">
                                     <h4>Discount</h4>
