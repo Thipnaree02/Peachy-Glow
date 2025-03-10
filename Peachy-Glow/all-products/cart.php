@@ -4,7 +4,7 @@
   if (strlen($_SESSION['login'])==0) {
     // echo "<script>alert('Please Login first before you buy the product!');</script>";
     $_SESSION['error'] = 'Please Login first before you buy the product!';
-    header('location: login.php');
+    header('location: cart.php');
     
 }
 

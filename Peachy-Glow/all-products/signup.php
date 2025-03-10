@@ -1,7 +1,7 @@
-<?php
-  session_start();
-  error_reporting(0);
-  include('confiG/config.php');
+<?php 
+
+    session_start();
+    require_once 'connect/db.php';
 
 ?>
 
@@ -114,10 +114,13 @@ https://templatemo.com/tm-571-hexashop
     </div>
     <!-- ***** Main Banner Area End ***** -->
 
-     <!-- Login -->
-     <div class="container">
+
+    <!-- Login -->
+    <div class="container">
       <div class="login-form">
-        <form action="login_db.php" method="post">
+        <form action="signup_db.php" method="post">
+
+          <h1>Sign Up</h1>
           <?php if(isset($_SESSION['error'])) { ?>
                 <div class="alert alert-danger" role="alert">
                     <?php 
@@ -133,12 +136,38 @@ https://templatemo.com/tm-571-hexashop
                         unset($_SESSION['success']);
                     ?>
                 </div>
-          <?php } ?>
-          <h1>Login</h1>
+            <?php } ?>
+            <?php if(isset($_SESSION['warning'])) { ?>
+                <div class="alert alert-warning" role="alert">
+                    <?php 
+                        echo $_SESSION['warning'];
+                        unset($_SESSION['warning']);
+                    ?>
+                </div>
+            <?php } ?>
           <p>
-            Already have an account? Login in or
-            <a href="signup.php">Sign Up</a>
+            Please fill in this form to create an account. or
+            <a href="login.php">Login</a>
           </p>
+
+          <label for="fname">Fullname</label>
+          <input type="text" placeholder="Enter your fullname..." name="c_name" required />
+
+          <label for="gender">Gender</label>
+          <div class="dateob" for="gender">
+            <input type="radio" name="gender" value="Male" id=""> Male
+            <input type="radio" name="gender" value="Female"  id=""> Female
+          </div>
+          
+
+          <label for="date">Date of Birth</label>
+          <input type="date" name="bday" required />
+
+          <label for="address">Address</label>
+          <textarea type="text" placeholder="Enter your real address. It's easy when shipping..." name="address" required ></textarea>
+
+          <label for="phone">Phone Number</label>
+          <input type="text" placeholder="Enter your phone number..." name="phone" required />
 
           <label for="email">Email</label>
           <input type="text" placeholder="Enter your email..." name="email" required />
@@ -152,7 +181,7 @@ https://templatemo.com/tm-571-hexashop
             required
           />
 
-          <!-- <label for="psw-repeat">Repeat Password</label>
+          <label for="psw-repeat">Repeat Password</label>
           <input
             type="password"
             placeholder="Confirm your password..."
@@ -162,7 +191,7 @@ https://templatemo.com/tm-571-hexashop
           />
           
           <div id="passwordMatchMessage" style="color: green; display: none; margin-bottom: 15px;">Passwords match!</div>
-          <div id="passwordWarning" style="color: red; display: none; margin-bottom: 15px;">Passwords do not match!</div>-->
+          <div id="passwordWarning" style="color: red; display: none; margin-bottom: 15px;">Passwords do not match!</div>
           <label>
             <input
               type="checkbox"
@@ -171,7 +200,7 @@ https://templatemo.com/tm-571-hexashop
               style="margin-bottom: 15px"
             />
             Show Password
-          </label> 
+          </label>
 
           <p>
             By creating an account you agree to our
@@ -179,17 +208,19 @@ https://templatemo.com/tm-571-hexashop
           </p>
 
           <div class="buttons">
-          <a href="../glowing-master/index.php">
+            <a href="../glowing-master/index.php">
               <button type="button" class="cancelbtn">Cancel</button>
-          </a>
-            <button type="submit" name="login" class="signupbtn">Login</button>
+            </a>
+            
+            <button type="submit" name="signup" class="signupbtn">Sign Up</button>
           </div>
         </form>
       </div>
     </div>
-    
-    <!-- ***** Footer Start ***** -->
-    <footer>
+
+
+        <!-- ***** Footer Start ***** -->
+        <footer>
         <div class="container">
             <div class="row">
                 <div class="col-lg-3">
@@ -210,9 +241,9 @@ https://templatemo.com/tm-571-hexashop
                 <div class="col-lg-3">
                     <h4>Shopping &amp; Categories</h4>
                     <ul>
-                        <li><a href="index.php">Clear up acne Shopping</a></li>
-                        <li><a href="index.php">Hyperpigmentation Shopping</a></li>
-                        <li><a href="index.php">Bright Shopping</a></li>
+                        <li><a href="#men">Clear up acne Shopping</a></li>
+                        <li><a href="#women">Hyperpigmentation Shopping</a></li>
+                        <li><a href="#kids">Bright Shopping</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">
@@ -291,17 +322,5 @@ https://templatemo.com/tm-571-hexashop
 
     </script>
 
-<?php
-if(isset($_POST['Submit'])){
-	echo @$_POST['name']."<br>";
-	echo @$_POST['a']."<br>";
-	echo @$_POST['b']."<br>";
-    echo @$_POST['c']."<br>";
-    echo @$_POST['d']."<br>";
-	
-}
-?>
-
   </body>
-
 </html>
