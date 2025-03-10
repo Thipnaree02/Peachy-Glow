@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
   <head>
@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Hexashop - Product Listing Page</title>
+    <title>PeachyGlow - Contact Page</title>
 
 
     <!-- Additional CSS Files -->
@@ -71,11 +71,13 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </li>
+                            <li class="submenu">
+                            </li>
                             <li class="scroll-to-section"><a href="index.php">Explore</a></li>
                             <form class="form-inline my-2 my-lg-0">
                      <div class="login_bt">
                         <ul>
-                           <li><a href="login.php"><span class="user_icon"><i class="fa fa-user" aria-hidden="true"></i></span>Login</a></li>
+                           <li><a href="#"><span class="user_icon"><i class="fa fa-user" aria-hidden="true"></i></span>Login</a></li>
                         </ul>
                      </div>
                   </form>
@@ -90,6 +92,22 @@ https://templatemo.com/tm-571-hexashop
         </div>
     </header>
     <!-- ***** Header Area End ***** -->
+
+    <!-- ***** Main Banner Area Start ***** -->
+    <div class="page-heading about-page-heading" id="top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="inner-content">
+                        <h2>Apply for membership PeachyGlow!</h2>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ***** Main Banner Area End ***** -->
+
 
  <!-- Start Cart  -->
  <div class="cart-box-main">
