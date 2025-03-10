@@ -77,7 +77,7 @@ https://templatemo.com/tm-571-hexashop
                                 <a href="javascript:;"><i class="fa fa-user"></i></a>
                                 <ul>
                                     <li><a href="login.php"></span>Login</a></li>
-                                    <li><a href="logout.php"></span>Logout</a></li>
+                                    <li><a href="login.php"></span>Logout</a></li>
                                 </ul>
                             </form>
                                     </ul>        
