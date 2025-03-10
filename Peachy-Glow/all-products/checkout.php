@@ -304,18 +304,18 @@ https://templatemo.com/tm-571-hexashop
                                 </div>
                                 <div class="rounded p-2 bg-light">
                                     <div class="media mb-2 border-bottom">
-                                        <div class="media-body"> <a href="detail.html"> Lorem ipsum dolor sit amet</a>
-                                            <div class="small text-muted">Price: $80.00 <span class="mx-2">|</span> Qty: 1 <span class="mx-2">|</span> Subtotal: $80.00</div>
+                                        <div class="media-body"> <a href="single-product.php"> Olay Regenerist</a>
+                                            <div class="small text-muted">Price: ฿599.00 <span class="mx-2">|</span> Qty: 1 <span class="mx-2">|</span> Subtotal: ฿599.00</div>
                                         </div>
                                     </div>
                                     <div class="media mb-2 border-bottom">
-                                        <div class="media-body"> <a href="detail.html"> Lorem ipsum dolor sit amet</a>
-                                            <div class="small text-muted">Price: $60.00 <span class="mx-2">|</span> Qty: 1 <span class="mx-2">|</span> Subtotal: $60.00</div>
+                                        <div class="media-body"> <a href="single-product2.php">Anessa</a>
+                                            <div class="small text-muted">Price: ฿775.00 <span class="mx-2">|</span> Qty: 1 <span class="mx-2">|</span> Subtotal: ฿775.00</div>
                                         </div>
                                     </div>
                                     <div class="media mb-2">
-                                        <div class="media-body"> <a href="detail.html"> Lorem ipsum dolor sit amet</a>
-                                            <div class="small text-muted">Price: $40.00 <span class="mx-2">|</span> Qty: 1 <span class="mx-2">|</span> Subtotal: $40.00</div>
+                                        <div class="media-body"> <a href="single-product8.php"> Garnier Bright Complete Vitamin C Water</a>
+                                            <div class="small text-muted">Price: ฿259.00<span class="mx-2">|</span> Qty: 1 <span class="mx-2">|</span> Subtotal: ฿259.00</div>
                                         </div>
                                     </div>
                                 </div>
@@ -323,7 +323,7 @@ https://templatemo.com/tm-571-hexashop
                         </div>
                         <div class="col-md-12 col-lg-12">
                             <div class="order-box">
-                                <div class="section-heading">
+                                <div class="small section-heading">
                                     <h3>Your order</h3>
                                 </div>
                                 <div class="d-flex">
