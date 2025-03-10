@@ -105,35 +105,36 @@ https://templatemo.com/tm-571-hexashop
     </div>
     <!-- ***** Main Banner Area End ***** -->
 
-<!-- Start Side Menu -->
-<div class="side">
-                <a href="#" class="close-side"><i class="fa fa-times"></i></a>
-                <li class="cart-box">
-                    <ul class="cart-list">
-                        <li>
-                            <a href="#" class="photo"><img src="assets/1.png" class="cart-thumb" alt="" /></a>
-                            <h6><a href="#">Delica omtantur </a></h6>
-                            <p>1x - <span class="price">$80.00</span></p>
-                        </li>
-                        <li>
-                            <a href="#" class="photo"><img src="images/img-pro-02.jpg" class="cart-thumb" alt="" /></a>
-                            <h6><a href="#">Omnes ocurreret</a></h6>
-                            <p>1x - <span class="price">$60.00</span></p>
-                        </li>
-                        <li>
-                            <a href="#" class="photo"><img src="images/img-pro-03.jpg" class="cart-thumb" alt="" /></a>
-                            <h6><a href="#">Agam facilisis</a></h6>
-                            <p>1x - <span class="price">$40.00</span></p>
-                        </li>
-                        <li class="total">
-                            <a href="#" class="btn btn-default hvr-hover btn-cart">VIEW CART</a>
-                            <span class="float-right"><strong>Total</strong>: $180.00</span>
-                        </li>
-                    </ul>
-                </li>
+<!-- ***** Product Details Section Start ***** -->
+<section class="section" id="product-details">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="product-image">
+                    <img src="assets/images/product-1.jpg" alt="Product Image" class="img-fluid">
+                </div>
             </div>
-            <!-- End Side Menu -->
-
+            <div class="col-lg-6">
+                <div class="product-info">
+                    <h2>Product Name</h2>
+                    <p class="price">$99.99</p>
+                    <p class="description">This is a high-quality product designed to meet your needs. It is durable, stylish, and affordable.</p>
+                    
+                    <div class="quantity">
+                        <label for="quantity">Quantity:</label>
+                        <input type="number" id="quantity" name="quantity" value="1" min="1">
+                    </div>
+                    
+                    <div class="product-buttons">
+                        <button class="btn btn-primary">Add to Cart</button>
+                        <button class="btn btn-secondary">Buy Now</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ***** Product Details Section End ***** -->
 
 
         <!-- ***** Footer Start ***** -->
