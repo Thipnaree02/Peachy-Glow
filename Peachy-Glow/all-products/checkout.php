@@ -326,16 +326,16 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="section-heading">
                                     <h3>Your order</h3>
                                 </div>
-                                <div class="down-content">
+                                <div class="d-flex">
                                     <div class="down-content">Product</div>
                                     <div class="ml-auto down-content">Total</div>
                                 </div>
                                 <hr class="my-1">
-                                <div class="down-content">
+                                <div class="d-flex">
                                     <h4>Sub Total</h4>
                                     <div class="ml-auto down-content"> $ 440 </div>
                                 </div>
-                                <div class="down-content">
+                                <div class="d-flex">
                                     <h4>Discount</h4>
                                     <div class="ml-auto down-content"> $ 40 </div>
                                 </div>
