@@ -52,11 +52,11 @@
                     <form method="post" action="include/login.php">
                         <div class="form-group">
                             <label>Username</label>
-                            <input type="text" name="usr" class="form-control" placeholder="Enter username...">
+                            <input type="text" name="a_usr" class="form-control" placeholder="Enter username...">
                         </div>
                             <div class="form-group">
                                 <label>Password</label>
-                                <input type="password" name="pwd" class="form-control" placeholder="Enter password...">
+                                <input type="password" name="a_pwd" class="form-control" placeholder="Enter password...">
                         </div>
                                 <div class="checkbox">
                                     <label>
