@@ -128,7 +128,7 @@ https://templatemo.com/tm-571-hexashop
                                 <tr>
                                     <td class="thumbnail-img">
                                         <a href="#">
-									<img class="img-fluid" src="images/img-pro-01.jpg" alt="" />
+									<img class="img-fluid" src="assets/images/1.png" alt="" />
 								</a>
                                     </td>
                                     <td class="name-pr">
@@ -152,7 +152,7 @@ https://templatemo.com/tm-571-hexashop
                                 <tr>
                                     <td class="thumbnail-img">
                                         <a href="#">
-									<img class="img-fluid" src="images/img-pro-02.jpg" alt="" />
+									<img class="img-fluid" src="assets/images/2.png" alt="" />
 								</a>
                                     </td>
                                     <td class="name-pr">
@@ -176,7 +176,7 @@ https://templatemo.com/tm-571-hexashop
                                 <tr>
                                     <td class="thumbnail-img">
                                         <a href="#">
-									<img class="img-fluid" src="images/img-pro-03.jpg" alt="" />
+									<img class="img-fluid" src="assets/images/3.png" alt="" />
 								</a>
                                     </td>
                                     <td class="name-pr">
@@ -190,12 +190,11 @@ https://templatemo.com/tm-571-hexashop
                                     <td class="quantity-box"><input type="number" size="4" value="1" min="0" step="1" class="c-input-text qty text"></td>
                                     <td class="total-pr">
                                         <p>$ 80.0</p>
-                                    </td>
-                                    <td class="remove-pr">
-                                        <a href="#">
-									<i class="fas fa-times"></i>
-								</a>
-                                    </td>
+                                        <td class="remove-pr">
+                                            <a href="#">
+                                                <i class="fas fa-times"></i>
+                                            </a>
+                                        </td>
                                 </tr>
                             </tbody>
                         </table>

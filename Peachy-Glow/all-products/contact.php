@@ -71,8 +71,6 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </li>
-                            <li class="submenu">
-                            </li>
                             <li class="scroll-to-section"><a href="index.php">Explore</a></li>
                             <form class="form-inline my-2 my-lg-0">
                      <div class="login_bt">
