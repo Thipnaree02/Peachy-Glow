@@ -323,34 +323,34 @@ https://templatemo.com/tm-571-hexashop
                         </div>
                         <div class="col-md-12 col-lg-12">
                             <div class="order-box">
-                                <div class="title-left">
+                                <div class="section-heading">
                                     <h3>Your order</h3>
                                 </div>
-                                <div class="d-flex">
+                                <div class="down-content">
                                     <div class="down-content">Product</div>
                                     <div class="ml-auto down-content">Total</div>
                                 </div>
                                 <hr class="my-1">
-                                <div class="d-flex">
+                                <div class="down-content">
                                     <h4>Sub Total</h4>
                                     <div class="ml-auto down-content"> $ 440 </div>
                                 </div>
-                                <div class="d-flex">
+                                <div class="down-content">
                                     <h4>Discount</h4>
-                                    <div class="ml-auto font-weight-bold"> $ 40 </div>
+                                    <div class="ml-auto down-content"> $ 40 </div>
                                 </div>
                                 <hr class="my-1">
                                 <div class="d-flex">
                                     <h4>Coupon Discount</h4>
-                                    <div class="ml-auto font-weight-bold"> $ 10 </div>
+                                    <div class="ml-auto down-content"> $ 10 </div>
                                 </div>
                                 <div class="d-flex">
                                     <h4>Tax</h4>
-                                    <div class="ml-auto font-weight-bold"> $ 2 </div>
+                                    <div class="ml-auto down-content"> $ 2 </div>
                                 </div>
                                 <div class="d-flex">
                                     <h4>Shipping Cost</h4>
-                                    <div class="ml-auto font-weight-bold"> Free </div>
+                                    <div class="ml-auto down-content"> Free </div>
                                 </div>
                                 <hr>
                                 <div class="d-flex gr-total">
