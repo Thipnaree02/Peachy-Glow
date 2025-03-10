@@ -93,44 +93,44 @@
                     ?>
                 </div>
             <?php } ?>
-          <p>
-          Please fill in this form to create an account. or <a href="login.php">Login</a></p>
+            <p>Please fill in this form to create an account. or <a href="login.php">Login</a></p>
 
-<label for="fname">Fullname</label><br>
-<input type="text" placeholder="Enter your fullname..." name="c_name" required /><br><br>
+                <label for="fname">Fullname</label><br>
+                <input type="text" placeholder="Enter your fullname..." name="c_name" required /><br><br>
 
-<label for="gender">Gender</label><br>
-<div class="dateob" for="gender">
-  <input type="radio" name="gender" value="Male" id=""> Male<br>
-  <input type="radio" name="gender" value="Female" id=""> Female<br>
-</div><br>
+                <label for="gender">Gender</label><br>
+                <div class="dateob" for="gender">
+                  <input type="radio" name="gender" value="Male" id=""> Male<br>
+                  <input type="radio" name="gender" value="Female" id=""> Female<br>
+                </div><br>
 
-<label for="date">Date of Birth</label><br>
-<input type="date" name="bday" required /><br><br>
+                <label for="date">Date of Birth</label><br>
+                <input type="date" name="bday" required /><br><br>
 
-<label for="address">Address</label><br>
-<textarea type="text" placeholder="Enter your real address. It's easy when shipping..." name="address" required></textarea><br><br>
+                <label for="address">Address</label><br>
+                <textarea type="text" placeholder="Enter your real address. It's easy when shipping..." name="address" required></textarea><br><br>
 
-<label for="phone">Phone Number</label><br>
-<input type="text" placeholder="Enter your phone number..." name="phone" required /><br><br>
+                <label for="phone">Phone Number</label><br>
+                <input type="text" placeholder="Enter your phone number..." name="phone" required /><br><br>
 
-<label for="email">Email</label><br>
-<input type="text" placeholder="Enter your email..." name="email" required /><br><br>
+                <label for="email">Email</label><br>
+                <input type="text" placeholder="Enter your email..." name="email" required /><br><br>
 
-<label for="psw">Password</label><br>
-<input type="password" placeholder="Enter your password..." name="password" id="passwordField" required /><br><br>
+                <label for="psw">Password</label><br>
+                <input type="password" placeholder="Enter your password..." name="password" id="passwordField" required /><br><br>
 
-<label for="psw-repeat">Repeat Password</label><br>
-<input type="password" placeholder="Confirm your password..." name="c_password" id="repeatPasswordField" required /><br><br>
+                <label for="psw-repeat">Repeat Password</label><br>
+                <input type="password" placeholder="Confirm your password..." name="c_password" id="repeatPasswordField" required /><br><br>
 
-<div id="passwordMatchMessage" style="color: green; display: none; margin-bottom: 15px;">Passwords match!</div>
-<div id="passwordWarning" style="color: red; display: none; margin-bottom: 15px;">Passwords do not match!</div>
+                <div id="passwordMatchMessage" style="color: green; display: none; margin-bottom: 15px;">Passwords match!</div>
+                <div id="passwordWarning" style="color: red; display: none; margin-bottom: 15px;">Passwords do not match!</div>
 
-<label>
-  <input type="checkbox" name="showPassword" id="showPasswordCheckbox" style="margin-bottom: 15px" />
-  Show Password
-</label>
-<br><br>
+                <label>
+                  <input type="checkbox" name="showPassword" id="showPasswordCheckbox" style="margin-bottom: 15px" />
+                  Show Password
+                </label>
+                <br><br>
+
 
           <p>
             By creating an account you agree to our
