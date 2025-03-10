@@ -4,7 +4,7 @@
     
 
         if(isset($_POST['submit'])){
-            $sql ="SELECT * FROM `admin` WHERE `a_name` ='{$_POST['a_usr']}' and `a_pwd` ='".md5($_POST['a_pwd'])."' limit 1";
+            $sql ="SELECT * FROM `admin` WHERE `a_usr` ='{$_POST['a_usr']}' and `a_pwd` ='".md5($_POST['a_pwd'])."' limit 1";
             $rs = mysqli_query($conn,$sql) or die ("Cannot select") ;
             $num = mysqli_num_rows($rs);
             if ($num >0){
