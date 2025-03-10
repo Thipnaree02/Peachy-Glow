@@ -134,15 +134,15 @@ https://templatemo.com/tm-571-hexashop
                                     </td>
                                     <td class="name-pr">
                                         <a href="#">
-									Lorem ipsum dolor sit amet
+                                        Olay Regeneris
 								</a>
                                     </td>
                                     <td class="price-pr">
-                                        <p>$ 80.0</p>
+                                        <p>฿ 599.00</p>
                                     </td>
                                     <td class="quantity-box"><input type="number" size="4" value="1" min="0" step="1" class="c-input-text qty text"></td>
                                     <td class="total-pr">
-                                        <p>$ 80.0</p>
+                                        <p>฿ 599.00</p>
                                     </td>
                                     <td class="remove-pr">
                                         <a href="#">
@@ -158,15 +158,15 @@ https://templatemo.com/tm-571-hexashop
                                     </td>
                                     <td class="name-pr">
                                         <a href="#">
-									Lorem ipsum dolor sit amet
+                                        Hada Labo
 								</a>
                                     </td>
                                     <td class="price-pr">
-                                        <p>$ 60.0</p>
+                                        <p>฿ 520.00</p>
                                     </td>
                                     <td class="quantity-box"><input type="number" size="4" value="1" min="0" step="1" class="c-input-text qty text"></td>
                                     <td class="total-pr">
-                                        <p>$ 80.0</p>
+                                        <p>฿ 520.00</p>
                                     </td>
                                     <td class="remove-pr">
                                         <a href="#">
@@ -182,15 +182,15 @@ https://templatemo.com/tm-571-hexashop
                                     </td>
                                     <td class="name-pr">
                                         <a href="#">
-									Lorem ipsum dolor sit amet
+                                        Anessa
 								</a>
                                     </td>
                                     <td class="price-pr">
-                                        <p>$ 30.0</p>
+                                        <p>฿ 775.00</p>
                                     </td>
                                     <td class="quantity-box"><input type="number" size="4" value="1" min="0" step="1" class="c-input-text qty text"></td>
                                     <td class="total-pr">
-                                        <p>$ 80.0</p>
+                                        <p>฿ 775.00</p>
                                         <td class="remove-pr">
                                             <a href="#">
                                                 <i class="fas fa-times"></i>
@@ -228,11 +228,11 @@ https://templatemo.com/tm-571-hexashop
                         <h3>Order summary</h3>
                         <div class="d-flex">
                             <h4>Sub Total</h4>
-                            <div class="ml-auto font-weight-bold"> $ 130 </div>
+                            <div class="ml-auto font-weight-bold"> ฿ 1,894.00</div>
                         </div>
                         <div class="d-flex">
                             <h4>Discount</h4>
-                            <div class="ml-auto font-weight-bold"> $ 40 </div>
+                            <div class="ml-auto font-weight-bold"> Set PeachyGlow</div>
                         </div>
                         <hr class="my-1">
                         <div class="d-flex">
@@ -250,7 +250,7 @@ https://templatemo.com/tm-571-hexashop
                         <hr>
                         <div class="d-flex gr-total">
                             <h5>Grand Total</h5>
-                            <div class="ml-auto h5"> $ 388 </div>
+                            <div class="ml-auto h5"> ฿ 1,894.00 </div>
                         </div>
                         <hr> </div>
                 </div>
