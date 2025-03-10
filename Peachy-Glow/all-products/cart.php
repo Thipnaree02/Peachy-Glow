@@ -153,7 +153,7 @@ https://templatemo.com/tm-571-hexashop
                                 <tr>
                                     <td class="thumbnail-img">
                                         <a href="#">
-									<img class="img-fluid" src="assets/images/2.png" alt="" />
+									<img class="img-fluid" src="assets/images/2.png" alt="" style="width: 100px; height: auto;"/>
 								</a>
                                     </td>
                                     <td class="name-pr">
@@ -177,7 +177,7 @@ https://templatemo.com/tm-571-hexashop
                                 <tr>
                                     <td class="thumbnail-img">
                                         <a href="#">
-									<img class="img-fluid" src="assets/images/3.png" alt="" />
+									<img class="img-fluid" src="assets/images/3.png" alt="" style="width: 100px; height: auto;"/>
 								</a>
                                     </td>
                                     <td class="name-pr">
