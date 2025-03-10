@@ -2,7 +2,7 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $dbname = "the_moon";
+    $dbname = "peachy_glow";
 
     $conn = mysqli_connect($servername, $username, $password, $dbname);
 
