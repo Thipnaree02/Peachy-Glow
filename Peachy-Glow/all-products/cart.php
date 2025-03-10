@@ -4,7 +4,7 @@
   if (strlen($_SESSION['login'])==0) {
     // echo "<script>alert('Please Login first before you buy the product!');</script>";
     $_SESSION['error'] = 'Please Login first before you buy the product!';
-    header('location: cart.php');
+    header('location: login.php');
     
 }
 
@@ -163,158 +163,171 @@ https://templatemo.com/tm-571-hexashop
     <!-- ***** Main Banner Area End ***** -->
 
 
- <!-- Start Cart  -->
- <div class="cart-box-main">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="table-main table-responsive">
-                        <table class="table">
-                            <thead>
-                                <tr>
-                                    <th>Images</th>
-                                    <th>Product Name</th>
-                                    <th>Price</th>
-                                    <th>Quantity</th>
-                                    <th>Total</th>
-                                    <th>Remove</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="thumbnail-img">
-                                        <a href="#">
-									<img class="img-fluid" src="assets/images/1.png" alt="" style="width: 100px; height: auto;" />
-								</a>
-                                    </td>
-                                    <td class="name-pr">
-                                        <a href="#">
-                                        Olay Regeneris
-								</a>
-                                    </td>
-                                    <td class="price-pr">
-                                        <p>฿ 599.00</p>
-                                    </td>
-                                    <td class="quantity-box"><input type="number" size="4" value="1" min="0" step="1" class="c-input-text qty text"></td>
-                                    <td class="total-pr">
-                                        <p>฿ 599.00</p>
-                                    </td>
-                                    <td class="remove-pr">
-                                        <a href="delete.php">
-									<i class="fas fa-times"></i>
-								</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="thumbnail-img">
-                                        <a href="#">
-									<img class="img-fluid" src="assets/images/2.png" alt="" style="width: 100px; height: auto;"/>
-								</a>
-                                    </td>
-                                    <td class="name-pr">
-                                        <a href="#">
-                                        Hada Labo
-								</a>
-                                    </td>
-                                    <td class="price-pr">
-                                        <p>฿ 520.00</p>
-                                    </td>
-                                    <td class="quantity-box"><input type="number" size="4" value="1" min="0" step="1" class="c-input-text qty text"></td>
-                                    <td class="total-pr">
-                                        <p>฿ 520.00</p>
-                                    </td>
-                                    <td class="remove-pr">
-                                        <a href="delete.php">
-									<i class="fas fa-times"></i>
-								</a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="thumbnail-img">
-                                        <a href="#">
-									<img class="img-fluid" src="assets/images/3.png" alt="" style="width: 100px; height: auto;"/>
-								</a>
-                                    </td>
-                                    <td class="name-pr">
-                                        <a href="#">
-                                        Anessa
-								</a>
-                                    </td>
-                                    <td class="price-pr">
-                                        <p>฿ 775.00</p>
-                                    </td>
-                                    <td class="quantity-box"><input type="number" size="4" value="1" min="0" step="1" class="c-input-text qty text"></td>
-                                    <td class="total-pr">
-                                        <p>฿ 775.00</p>
-                                        <td class="remove-pr">
-                                            <a href="delete.php">
-                                                <i class="fas fa-times"></i>
-                                            </a>
-                                        </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
+     <!-- Cart Items -->
+     <div class="container cart">
+      <table>
+        <tr>
+          <th>No.</th>
+          <th>Product</th>
+          <th>Unit Price</th>
+          <th>Quantity</th>
+          <th>Subtotal</th>
+        </tr>
 
-            <div class="row my-5">
-                <div class="col-lg-6 col-sm-6">
-                    <div class="coupon-box">
-                        <div class="input-group input-group-sm">
-                            <input class="form-control" placeholder="Enter your coupon code" aria-label="Coupon code" type="text">
-                            <div class="input-group-append">
-                                <button class="btn btn-theme" type="button">Apply Coupon</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-sm-6">
-                    <div class="update-box">
-                        <input value="Update Cart" type="submit">
-                    </div>
-                </div>
-            </div>
 
-            <div class="row my-5">
-                <div class="col-lg-8 col-sm-12"></div>
-                <div class="col-lg-4 col-sm-12">
-                    <div class="order-box">
-                        <h3>Order summary</h3>
-                        <div class="d-flex">
-                            <h4>Sub Total</h4>
-                            <div class="ml-auto font-weight-bold"> ฿ 1,894.00</div>
-                        </div>
-                        <div class="d-flex">
-                            <h4>Discount</h4>
-                            <div class="ml-auto font-weight-bold"> Set PeachyGlow</div>
-                        </div>
-                        <hr class="my-1">
-                        <div class="d-flex">
-                            <h4>Coupon Discount</h4>
-                            <div class="ml-auto font-weight-bold"> $ 10 </div>
-                        </div>
-                        <div class="d-flex">
-                            <h4>Tax</h4>
-                            <div class="ml-auto font-weight-bold"> $ 2 </div>
-                        </div>
-                        <div class="d-flex">
-                            <h4>Shipping Cost</h4>
-                            <div class="ml-auto font-weight-bold"> Free </div>
-                        </div>
-                        <hr>
-                        <div class="d-flex gr-total">
-                            <h5>Grand Total</h5>
-                            <div class="ml-auto h5"> ฿ 1,894.00 </div>
-                        </div>
-                        <hr> </div>
-                </div>
-                <div class="col-12 d-flex shopping-box"><a href="checkout.php" class="ml-auto btn hvr-hover">Checkout</a> </div>
-            </div>
+        <?php
+              if(!empty($_SESSION['buyid'])) {
+                foreach($_SESSION['buyid'] as $pid) {
+                  @$i++;
+                  $sum[$pid] = $_SESSION['buyprice'][$pid] * $_SESSION['buyqty'][$pid] ;
+                  @$total += $sum[$pid] ;
+              ?>
+        <tr>
 
-        </div>
+
+
+          <td><?=$i;?></td>
+          <td>
+            <div class="cart-info">
+            <img src="../imgs_product/<?=$_SESSION['propiture'][$pid];?>" width="120">
+              <!-- <img src="./images/product-02.jpg" alt="" /> -->
+              <div>
+                <br/>
+                <a style="color:black!important;" href="productDetails.php?pid=<?=$data['p_id'];?>"><?=$_SESSION['buyname'][$pid];?></a> <br/>
+                <a href="clear2.php?id=<?=$pid;?>">remove</a>
+              </div>
+            </div>
+          </td>
+          <td>
+            <span>$<?=$_SESSION['buyprice'][$pid];?>.00</span>
+          </td>
+          <!-- <form method="post"> -->
+          <td>
+            <?=$_SESSION['buyqty'][$pid];?>
+            <!-- Line add number readme -->
+          </td>
+          <td>$<?=number_format($sum[$pid],0);?>.00</td>
+        </tr>
+        <?php } // end foreach ?>
+      </table>
+      <div class="total-price">
+        <table>
+          <tr>
+            <td><b>Cart Subtotal:</b></td>
+            <td><b>$<?=number_format($total,0);?>.00</b></td>
+          </tr>
+          <?php 
+      } else {
+      ?>
+        
+        <tr>
+          <td colspan="3" height="60" align="center">
+          
+          <h3>Your Cart is currently Empty &#129402;</h3> 
+            
+          </td>
+        </tr>
+        <tr>
+          <!-- <td colspan="3" height="60" align="center"> -->
+          <img src="images/empty-cart.png" width="350" height="307" alt="cart-empty">
+          <!-- </td> -->
+        </tr>
+        
+        
+      <?php } // end if ?>
+        </table>
+        <?php
+        if(empty($_SESSION['buyid'])) {
+        ?>
+              <a href="#" class="checkout btn" onClick="alert('There is no product in your cart.');" 
+              onmouseover="this.style.opacity='0.8';
+                          this.style.boxShadow='rgba(0, 0, 0, 0.10) 0px 54px 55px, rgba(0, 0, 0, 0.10) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px';"
+              onmouseout="this.style.opacity='1';
+                          this.style.color ='White'; 
+                          this.style.boxShadow='rgba(0, 0, 0, 0.15) 0px 5px 10px';">Proceed To Checkout</a>
+        <?php } else { ?>
+              <a href="proceed-checkout.php" class="checkout btn"
+                  onmouseover="this.style.opacity='0.8';
+                              this.style.boxShadow='rgba(0, 0, 0, 0.10) 0px 54px 55px, rgba(0, 0, 0, 0.10) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px';"
+                  onmouseout="this.style.opacity='1';
+                              this.style.color ='White'; 
+                              this.style.boxShadow='rgba(0, 0, 0, 0.15) 0px 5px 10px';">Proceed To Checkout</a>
+        <?php } ?>
+        
+        
+        
+      </div>
+      <div class="container">
+        <!-- =================Style CSS with this.style================ -->
+      <a href="../all-products/product.php" style="background-color: #0292b4!important;" class="checkout btn"
+        onmouseover="this.style.opacity='0.8';
+                    
+                    this.style.boxShadow='rgba(0, 0, 0, 0.10) 0px 54px 55px, rgba(0, 0, 0, 0.10) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px';"
+        onmouseout="this.style.opacity='1';
+                    this.style.color ='White'; 
+                    this.style.boxShadow='rgba(0, 0, 0, 0.15) 0px 5px 10px';">COUNTINUE SHOPPING</a>
+
+      <a href="order-history.php" style="background-color: #1355b5!important; margin:0 15px 0 15px !important;" class="checkout btn"
+        onmouseover="this.style.opacity='0.8';
+                      this.style.boxShadow='rgba(0, 0, 0, 0.10) 0px 54px 55px, rgba(0, 0, 0, 0.10) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px';"
+        onmouseout="this.style.opacity='1';
+                    this.style.color ='White'; 
+                    this.style.boxShadow='rgba(0, 0, 0, 0.15) 0px 5px 10px';">ORDER HISTORY</a>
+      <!-- </form> -->
+      <a href="clear.php" style="background-color: #b51313!important;" class="checkout btn"
+        onmouseover="this.style.opacity='0.8';
+                      this.style.boxShadow='rgba(0, 0, 0, 0.10) 0px 54px 55px, rgba(0, 0, 0, 0.10) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px';"
+        onmouseout="this.style.opacity='1';
+                    this.style.color ='White'; 
+                    this.style.boxShadow='rgba(0, 0, 0, 0.15) 0px 5px 10px';">CLEAR ALL</a>
+      </div>
+      
     </div>
-    <!-- End Cart -->
+
+    <!-- Latest Products -->
+    <section class="section featured">
+      <div class="top container">
+        <h1>Latest Products</h1>
+        <a href="../all-products/product.php" class="view-more">View more</a>
+      </div>
+      <div class="product-center container">
+      <?php
+        
+        $kw = @$_POST['kw'];
+
+        $sql = "SELECT * FROM `product` WHERE `p_name` like '%{$kw}%' OR `p_detail` like '%{$kw}%'";
+        $sql = "SELECT * FROM `product` WHERE `p_id` IN (33,37,42,43) ";
+        $rs = mysqli_query ($conn, $sql);
+        while ($data = mysqli_fetch_array($rs)) {
+
+            ?>
+        <div class="product-item">
+          <div class="overlay">
+          <?php
+              $p = $data['p_id'].".".$data['p_ext'];
+            ?>
+            <a href="" class="product-thumb">
+              <img src="../imgs_product/<?=$p;?>" alt="" />
+            </a>
+            <span class="discount">10%</span>
+          </div>
+          <div class="product-info">
+            <span><?=$data['p_brand']?></span>
+            <a href="productDetails.php?pid=<?=$data['p_id'];?>"><?=$data['p_name']?></a>
+            <h4>$<?=$data['p_price']?></h4>
+          </div>
+          <ul class="icons">
+              <a href="cart.php?id=<?=$data['p_id'];?>"> 
+                <li><i class="bx bx-cart"></i></li>
+              </a>
+            
+          </ul>
+        </div>
+        <?php
+          }
+        ?> 
+      </div>
+    </section>
 
         <!-- ***** Footer Start ***** -->
         <footer>
