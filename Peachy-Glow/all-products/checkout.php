@@ -327,7 +327,7 @@ https://templatemo.com/tm-571-hexashop
                                     <h3>Your order</h3>
                                 </div>
                                 <div class="d-flex">
-                                    <div class="font-weight-bold">Product</div>
+                                    <div class="down-content">Product</div>
                                     <div class="ml-auto font-weight-bold">Total</div>
                                 </div>
                                 <hr class="my-1">
