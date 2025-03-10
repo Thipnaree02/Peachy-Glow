@@ -1,3 +1,53 @@
+<?php
+  error_reporting(E_NOTICE);
+	@session_start();
+  if (strlen($_SESSION['login'])==0) {
+    // echo "<script>alert('Please Login first before you buy the product!');</script>";
+    $_SESSION['error'] = 'Please Login first before you buy the product!';
+    header('location: login.php');
+    
+}
+
+// if(isset($_POST['ordersubmit'])) 
+// {
+	
+// if(strlen($_SESSION['login'])==0)
+//     {   
+// header('location:login.php');
+// }
+else{
+
+	include("confiG/config.php");
+	$sql = "select * from product where p_id='{$_GET['id']}' ";
+	$rs = mysqli_query($conn, $sql) ;
+	$data = mysqli_fetch_array($rs);
+	$id = $_GET['id'] ;
+  $p = $data['p_id'].".".$data['p_ext'];
+	
+	if(isset($_GET['id'])) {
+		$_SESSION['buyid'][$id] = $data['p_id'];
+		$_SESSION['buyname'][$id] = $data['p_name'];
+		$_SESSION['buyprice'][$id] = $data['p_price'];
+		$_SESSION['buydetail'][$id] = $data['p_detail'];
+		$_SESSION['propiture'][$id] = $p;
+		@$_SESSION['buyqty'][$id]++;
+	}
+}
+  // if(isset($_POST['update'])){
+	// 	if(!empty($_SESSION['cart'])){
+	// 	foreach($_POST['buyqty'] as $key => $val){
+	// 		if($val==0){
+	// 			unset($_SESSION['cart'][$key]);
+	// 		}else{
+	// 			$_SESSION['cart'][$key]['buyqty']=$val;
+
+	// 		}
+	// 	}
+	// 		echo "<script>alert('Your Cart hasbeen Updated');</script>";
+	// 	}
+	// } 
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
