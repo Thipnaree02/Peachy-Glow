@@ -138,6 +138,16 @@ https://templatemo.com/tm-571-hexashop
                           </div><br></br>
                           <div class="col-lg-6">
                             <fieldset>
+                              <input name="c" type="text" placeholder="Username" required="">
+                            </fieldset>
+                          </div><br></br>
+                          <div class="col-lg-6">
+                            <fieldset>
+                              <input name="d" type="password" placeholder="Password" required="">
+                            </fieldset>
+                          </div><br></br>
+                          <div class="col-lg-6">
+                            <fieldset>
                               <input name="b" type="date" placeholder="DD/MM/YYYY" required="">
                             </fieldset>
                           </div>
@@ -328,6 +338,8 @@ if(isset($_POST['Submit'])){
 	echo @$_POST['name']."<br>";
 	echo @$_POST['a']."<br>";
 	echo @$_POST['b']."<br>";
+    echo @$_POST['c']."<br>";
+    echo @$_POST['d']."<br>";
 	
 }
 ?>
