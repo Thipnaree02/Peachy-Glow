@@ -75,7 +75,7 @@ https://templatemo.com/tm-571-hexashop
                             <form class="form-inline my-2 my-lg-0">
                             <li class="submenu">
                                 <a href="javascript:;"><i class="fa fa-user"></i></a>
-                                    <li><a href="login.php"><span class="user_icon"><aria-hidden="true"></></span>Login</a></li>
+                                    <li><a href="login.php"></span>Login</a></li>
                                 </ul>
                      </div>
                   </form>
