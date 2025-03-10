@@ -1,6 +1,6 @@
 <?php
     include("include/checklogin.php");
-    include ("include/connect.php");
+    include ("include/config.php");
 
 ?>
 
