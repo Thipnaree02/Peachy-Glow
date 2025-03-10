@@ -262,11 +262,11 @@ https://templatemo.com/tm-571-hexashop
                                 <div class="col-md-6 mb-3">
                                     <div class="payment-icon">
                                         <ul>
-                                            <li><img class="img-fluid" src="images/payment-icon/1.png" alt=""></li>
-                                            <li><img class="img-fluid" src="images/payment-icon/2.png" alt=""></li>
-                                            <li><img class="img-fluid" src="images/payment-icon/3.png" alt=""></li>
-                                            <li><img class="img-fluid" src="images/payment-icon/5.png" alt=""></li>
-                                            <li><img class="img-fluid" src="images/payment-icon/7.png" alt=""></li>
+                                            <li><img class="img-fluid" src="assets/images/payment-icon/1.png" alt=""></li>
+                                            <li><img class="img-fluid" src="assets/images/payment-icon/2.png" alt=""></li>
+                                            <li><img class="img-fluid" src="assets/images/payment-icon/3.png" alt=""></li>
+                                            <li><img class="img-fluid" src="assets/images/payment-icon/5.png" alt=""></li>
+                                            <li><img class="img-fluid" src="assets/images/payment-icon/7.png" alt=""></li>
                                         </ul>
                                     </div>
                                 </div>
