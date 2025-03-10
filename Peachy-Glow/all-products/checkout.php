@@ -333,11 +333,11 @@ https://templatemo.com/tm-571-hexashop
                                 <hr class="my-1">
                                 <div class="d-flex">
                                     <h4>Sub Total</h4>
-                                    <div class="ml-auto down-content"> $ 440 </div>
+                                    <div class="ml-auto down-content"> ฿ 1,633.00 </div>
                                 </div>
                                 <div class="d-flex">
                                     <h4>Discount</h4>
-                                    <div class="ml-auto down-content"> $ 40 </div>
+                                    <div class="ml-auto down-content"> Set PeachyGlow </div>
                                 </div>
                                 <hr class="my-1">
                                 <div class="d-flex">
@@ -355,7 +355,7 @@ https://templatemo.com/tm-571-hexashop
                                 <hr>
                                 <div class="d-flex gr-total">
                                     <h5>Grand Total</h5>
-                                    <div class="ml-auto h5"> $ 388 </div>
+                                    <div class="ml-auto h5"> ฿ 1,633.00 </div>
                                 </div>
                                 <hr> </div>
                         </div>
