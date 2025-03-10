@@ -129,7 +129,7 @@ https://templatemo.com/tm-571-hexashop
                                 <tr>
                                     <td class="thumbnail-img">
                                         <a href="#">
-									<img class="img-fluid" src="assets/images/1.png" alt="" />
+									<img class="img-fluid" src="assets/images/1.png" alt="" style="width: 100px; height: auto;" />
 								</a>
                                     </td>
                                     <td class="name-pr">
