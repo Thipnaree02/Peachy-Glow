@@ -17,7 +17,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>TheMOON Admin</title>
+    <title>Peachy Glow Admin</title>
     <meta name="description" content="Sufee Admin - HTML5 Admin Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -208,17 +208,14 @@
                                             <th scope="col">Product name</th>
                                             <th scope="col">Picture</th>
                                             <!-- <th scope="col">Details</th> -->
-                                            <th scope="col">Brand</th>
                                             <th scope="col">Price</th>
-                                            <th scope="col">Stock</th>
                                             <th scope="col">Category</th>
-                                            <th scope="col">Expire at</th>
                                             <th scope="col">Action</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                     <?php
-                                        $sql = "SELECT * FROM `product`";
+                                        $sql = "SELECT * FROM `products`";
                                         $result = mysqli_query($conn,$sql);
                                         while ($row = mysqli_fetch_assoc($result)){
                                             ?>
@@ -232,11 +229,8 @@
                                             <td><a href="../imgs_product/<?=$p;?>">
                                                 <img src="../imgs_product/<?=$p;?>" width="50">
                                             </a></td>
-                                            <td><?=$row['p_brand']?></td>
                                             <td>$<?=$row['p_price']?>.00</td>
-                                            <td><?=$row['p_stock']?></td>
-                                            <td><?=$row['cat_id']?></td>
-                                            <td><?=$row['p_expire']?></td>
+                                            <td><?=$row['c_id']?></td>
                                             
                                             <td>
                                                 
