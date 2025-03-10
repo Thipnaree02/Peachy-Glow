@@ -73,12 +73,11 @@ https://templatemo.com/tm-571-hexashop
                             </li>
                             <li class="scroll-to-section"><a href="index.php">Explore</a></li>
                             <form class="form-inline my-2 my-lg-0">
-                            <li class="submenu">
-                                <a href="javascript:;"><i class="fa fa-user"></i></a>
-                                <ul>
-                                    <li><a href="login.php"></span>Login</a></li>
-                                    <li><a href="logout.php"></span>Logout</a></li>
-                                </ul>
+                     <div class="login_bt">
+                        <ul>
+                           <li><a href="#"><span class="user_icon"><i class="fa fa-user" aria-hidden="true"></i></span>Login</a></li>
+                        </ul>
+                     </div>
                   </form>
                         </ul>        
                         <a class='menu-trigger'>
@@ -98,8 +97,8 @@ https://templatemo.com/tm-571-hexashop
             <div class="row">
                 <div class="col-lg-12">
                     <div class="inner-content">
-                        <h2>Contact Us</h2>
-                        <span>ลูกค้าพบปัญหาสามารถติดต่อบริษัท PeachyGlow จำกัด ตาม Maps ที่ทางร้านปักหมุดไว้ให้ได้เลย</span>
+                        <h2>Apply for membership PeachyGlow!</h2>
+                        <span></span>
                     </div>
                 </div>
             </div>
@@ -120,8 +119,8 @@ https://templatemo.com/tm-571-hexashop
                 </div>
                 <div class="col-lg-6">
                     <div class="section-heading">
-                        <h2>Say Hello. Don't Be Shy!</h2>
-                        <span>Details to details is what makes PeachyGlow different from the other themes.</span>
+                        <h2>Say Hello. Apply for membership PeachyGlow!</h2>
+                        <span>ยินดีต้อนรับลูกค้าทุกท่านสู่การสมัครสมาชิกของร้าน PeachyGlow.</span>
                     </div>
                     <form id="contact" action="" method="post">
                         <div class="row">
@@ -129,21 +128,46 @@ https://templatemo.com/tm-571-hexashop
                             <fieldset>
                               <input name="name" type="text" id="name" placeholder="Your name" required="">
                             </fieldset>
-                          </div>
+                          </div><br></br>
                           <div class="col-lg-6">
                             <fieldset>
                               <input name="email" type="text" id="email" placeholder="Your email" required="">
                             </fieldset>
-                          </div>
-                          <div class="col-lg-12">
+                          </div><br></br>
+                          <div class="col-lg-6">
                             <fieldset>
-                              <textarea name="message" rows="6" id="message" placeholder="Your message" required=""></textarea>
+                              <input name="c" type="text" placeholder="Username" required="">
+                            </fieldset>
+                          </div><br></br>
+                          <div class="col-lg-6">
+                            <fieldset>
+                              <input name="d" type="password" placeholder="Password" required="">
+                            </fieldset>
+                          </div><br></br>
+                          <div class="col-lg-6">
+                            <fieldset>
+                              <input name="b" type="date" placeholder="DD/MM/YYYY" required="">
+                            </fieldset>
+                          </div>
+                          <div class="col-lg-6">
+                            <fieldset>
+                              <input name="a" type="text" placeholder="Your phone" required="">
                             </fieldset>
                           </div>
                           <div class="col-lg-12">
                             <fieldset>
-                              <button type="submit" id="form-submit" class="main-dark-button"><i class="fa fa-paper-plane"></i></button>
+                              <textarea name="address" rows="6" placeholder="Your address" required=""></textarea>
+                            </fieldset>
                           </div>
+                          <div class="container">
+                            <div class="row">
+                                <div class="col-5">
+                                    <button class="btn btn-warning w-100" type="button">Save</button>
+                                </div>
+                                <div class="col-5 offset-1">
+                                    <button class="btn btn-danger w-100" type="button">Cancel</button>
+                                </div>
+                            </div>
                         </div>
                       </form>
                 </div>
@@ -306,6 +330,17 @@ https://templatemo.com/tm-571-hexashop
         });
 
     </script>
+
+<?php
+if(isset($_POST['Submit'])){
+	echo @$_POST['name']."<br>";
+	echo @$_POST['a']."<br>";
+	echo @$_POST['b']."<br>";
+    echo @$_POST['c']."<br>";
+    echo @$_POST['d']."<br>";
+	
+}
+?>
 
   </body>
 
