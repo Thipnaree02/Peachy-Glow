@@ -78,19 +78,19 @@ https://templatemo.com/tm-571-hexashop
                                 <ul>
                                     <li><a href="login.php"></span>Login</a></li>
                                 </ul>
-                     </div>
-                  </form>
-                        </ul>        
-                        <a class='menu-trigger'>
-                            <span>Menu</span>
-                        </a>
-                        <!-- ***** Menu End ***** -->
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- ***** Header Area End ***** -->
+                                </div>
+                            </form>
+                                    </ul>        
+                                    <a class='menu-trigger'>
+                                        <span>Menu</span>
+                                    </a>
+                                    <!-- ***** Menu End ***** -->
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                <!-- ***** Header Area End ***** -->
 
     <!-- ***** Main Banner Area Start ***** -->
     <div class="main-banner" id="top">
