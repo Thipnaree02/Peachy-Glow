@@ -149,7 +149,7 @@ https://templatemo.com/tm-571-hexashop
                                         <p>฿ 599.00</p>
                                     </td>
                                     <td class="remove-pr">
-                                        <a href="#">
+                                        <a href="delete.php">
 									<i class="fas fa-times"></i>
 								</a>
                                     </td>
@@ -173,7 +173,7 @@ https://templatemo.com/tm-571-hexashop
                                         <p>฿ 520.00</p>
                                     </td>
                                     <td class="remove-pr">
-                                        <a href="#">
+                                        <a href="delete.php">
 									<i class="fas fa-times"></i>
 								</a>
                                     </td>
@@ -196,7 +196,7 @@ https://templatemo.com/tm-571-hexashop
                                     <td class="total-pr">
                                         <p>฿ 775.00</p>
                                         <td class="remove-pr">
-                                            <a href="#">
+                                            <a href="delete.php">
                                                 <i class="fas fa-times"></i>
                                             </a>
                                         </td>
