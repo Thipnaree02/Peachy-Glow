@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.0.4deb2+deb11u1
+-- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
--- Host: localhost:3306
--- Generation Time: Mar 10, 2025 at 12:36 PM
--- Server version: 10.5.28-MariaDB-0+deb11u1
--- PHP Version: 7.4.33
+-- Host: 127.0.0.1
+-- Generation Time: Mar 10, 2025 at 01:49 PM
+-- Server version: 10.4.32-MariaDB
+-- PHP Version: 8.0.30
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -20,6 +20,29 @@ SET time_zone = "+00:00";
 --
 -- Database: `peachy_glow`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `admin`
+--
+
+CREATE TABLE `admin` (
+  `a_id` int(6) NOT NULL,
+  `a_name` varchar(200) NOT NULL,
+  `a_usr` varchar(200) NOT NULL,
+  `a_pwd` varchar(200) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `admin`
+--
+
+INSERT INTO `admin` (`a_id`, `a_name`, `a_usr`, `a_pwd`) VALUES
+(1, 'จุฑามาศ ', 'admin', '1111'),
+(2, 'ทิพย์นารี', 'admin2', '2222'),
+(3, 'ภาคภูมิ', 'admin3', '3333'),
+(4, 'ชวิน', 'admin4', '4444');
 
 -- --------------------------------------------------------
 
@@ -59,6 +82,12 @@ INSERT INTO `products` (`p_id`, `p_name`, `p_detail`, `p_price`, `p_ext`, `c_id`
 --
 
 --
+-- Indexes for table `admin`
+--
+ALTER TABLE `admin`
+  ADD PRIMARY KEY (`a_id`);
+
+--
 -- Indexes for table `products`
 --
 ALTER TABLE `products`
@@ -67,6 +96,12 @@ ALTER TABLE `products`
 --
 -- AUTO_INCREMENT for dumped tables
 --
+
+--
+-- AUTO_INCREMENT for table `admin`
+--
+ALTER TABLE `admin`
+  MODIFY `a_id` int(6) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
 -- AUTO_INCREMENT for table `products`
