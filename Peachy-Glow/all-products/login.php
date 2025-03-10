@@ -67,6 +67,7 @@ https://templatemo.com/tm-571-hexashop
                                     <li><a href="about.php">About Us</a></li>
                                     <li><a href="products.php">Products</a></li>
                                     <li><a href="cart.php">Products Cart</a></li>
+                                    <li><a href="checkout.php">Checkout Products</a></li>
                                     <li><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </li>
